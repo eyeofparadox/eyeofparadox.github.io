@@ -9,12 +9,26 @@ pygmentsCodeFences = true
 
 # Taxonomies
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+	category = "categories"
+	tag = "tags"
 
 # Params specific to GitHub-Style
 [params]
-  author = "David Bryan Roberson"
-  description = "blog, echo, wordpress, posts, pages, essays, articles, fiction"
-  github = "eyeofparadox"
-  twitter = "EyeOfParadox"
+	author = "David Bryan Roberson"
+	description = "blog, echo, wordpress, posts, pages, essays, articles, fiction"
+	github = "eyeofparadox"
+	twitter = "EyeOfParadox"
+
+# Markup configuration
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+	[markup.highlight]
+		codeFences = true
+		guessSyntax = true
+		lineNos = true
+
+# Optional: suppress warnings if you prefer a clean build log
+ignoreLogs = ['warning-goldmark-raw-html']

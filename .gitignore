@@ -1,1 +1,35 @@
+# .gitignore
 
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo cache
+.hugo_build.lock
+
+# OS-specific junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node / npm (if used for WordPress export tools or pipelines)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# MacOS metadata
+.DS_Store
