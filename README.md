@@ -1,40 +1,25 @@
 README.md
 
 ---
-
-**abstract**  
-This README explains to future readers how and why the archive is structured the way it is, and how to keep `public\` clean when rebuildind it. 
+ 
+This README introduces **eyeofparadox.github.io** and explains how and why the archive is structured the way it is, how to keep `public` clean when rebuilding it, and what licenses are applied. 
 
 ---
 
-# eyeofparadox.wordpress.com -> eyeofparadox.github.io
+# eyeofparadox.com -> eyeofparadox.github.io
 
-I’ve been scratching out ideas since the writing bug first bit me in grade school. Somewhere in the back of my mind I always had this notion that I was going to devote some part of my life to writing. Of course, I’ve spent much more time thinking, while trying to find time to get anything written! 
+I’ve been scratching out ideas since the writing bug first bit me in grade school. Somewhere in the back of my mind, I always had this notion that I was going to devote some part of my life to writing. Of course, I’ve spent much more time thinking, while trying to find time to get anything written! 
 
-Inevitably, when the time came to start writing, I had thoughts waiting to be expressed. I used to just spill them out in a notepad and file them away. Sometime in 2007 tripped over a link to Helium (long gone now) and started responding to writing prompts.After publishing my tenth article, I got an itch for something more. I wanted to be able to continue to explore the ideas that bit me, and that really called for something more like a blog.
+Inevitably, when the time came to start writing, I had thoughts waiting to be expressed. I used to just spill them out in a notepad and file them away. Sometime in 2007, I tripped over a link to **Helium** (long gone now) and started responding to writing prompts. After publishing my tenth article, I got an itch for something more. I wanted to keep exploring the ideas that bit me, and that really called for something more like a blog.
 
-I started by reposting my Helium articles. I added posts as the impulse to write kicked in, very randomly; sometimes going years between posts. Mostly, my blog was a place I could capture my thoughts. I was not going to try to support myself doing it. I didn't have a particular audience in mind, and the writing served no greater purpose than external memory.
+I started by creating [**eyeofparadox**](https://yeofparadox.com) on WordPress, reposting my **Helium** articles. I added essays, articles, journals, and bits of work-in-progress fiction as the impulse to write kicked in--however randomly--sometimes going years between posts. Mostly, my blog was a place I could just capture my thoughts before they could escape me. I was not going to try to support myself doing it. I didn't have a particular audience in mind, and the writing served no greater purpose than *external memory* (a [**Ghost in the Shell**](https://github.com/eyeofparadox/eyeofparadox.github.io/tree/main/.resources/masamune-shiro--ghost-in-the-shell--manga-anime.md) reference, for the uniniated).
 
 The fact that it was open to the public did not escape me, but I'm the kind of person who feels, if an idea is worth putting down in writing, then it might be worth reading for some people. Most of the time, that works just fine. 
 
-I carried that philosophy to other sites I created, including Git-Hub. Originally, I used GitHub for more technical things, but the benefits for managing my writing archives were clear. I woul also be able to take advantage of Copilot to help with indezing and cross-referencing decades worth of material more efficiently.
+I carried that philosophy to other sites I created, including GitHub. Originally, I used GitHub for more technical things, but the benefits of using it to manage my writing archives were clear. I would also be able to take advantage of Copilot to help with indexing and cross-referencing decades worth of material more efficiently. I intend to get the static pages up on [eyeofparadox.github.io](https://eyeofparadox.github.io/public/) as soon as I can get Hugo to build them properly. I might need to make some manual adjustments for that, so for now the Markdown versions can be found in [**`pages`**](https://github.com/eyeofparadox/eyeofparadox.github.io/tree/main/content/pages/) and [**`posts`**](https://github.com/eyeofparadox/eyeofparadox.github.io/tree/main/content/posts/).
 
 ---
 
-## Re: Blog-Publishing License
-
-For blogs, the most appropriate license is usually **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**. It allows others to share and adapt your work, as long as they credit you and license derivatives under the same terms. 
-
-
-Perfect — here’s a **README.md section** you can drop into your repo. It explains your Hugo config choices (theme, markup settings, syntax highlighting) and also documents the workflow for clean rebuilds, including when to purge `public\`.  
-
----
-
-## Features
-
-
-
----
 
 ## Configuration
 
@@ -52,6 +37,7 @@ The site is configured via `hugo.toml` in the repo root. Key settings:
 This configuration ensures WordPress-imported posts render correctly while preserving embedded HTML and providing highlighted code blocks.
 
 ---
+
 
 ## Workflow
 
@@ -87,14 +73,15 @@ This generates the static site into the `public\` folder.
 
 ---
 
+
 ## Licensing
 
 - **Content** (posts, essays, codex shards): Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)  
 - **Code scaffolding** (Hugo configs, layouts, scripts): MIT License  
 
 See `LICENSE` in the repo root for full details.
-```
 
 ---
 
-**Next:** a **`.gitignore` tuned for Hugo projects** (ignoring `public\`, cache, and OS cruft) so the repo stays clean.
+
+20251119-1152
