@@ -1,3 +1,20 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://eyeofparadox.github.io/"
+languageCode = "en-us"
+title = "eyeofparadox.wordpress.echo"
+theme = "github-style"
+
+# Optional: enable syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Params specific to GitHub-Style
+[params]
+  author = "David Bryan Roberson"
+  description = "blog, echo, wordpress, posts, pages, essays, articles, fiction"
+  github = "eyeofparadox"
+  twitter = "EyeOfParadox"
