@@ -2,416 +2,416 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on eyeofparadox.wordpress.echo</title>
-    <link>https://eyeofparadox.github.io/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on eyeofparadox.wordpress.echo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://eyeofparadox.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writing</title>
-      <link>https://eyeofparadox.github.io/categories/writing/</link>
+      <link>http://localhost:1313/categories/writing/</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/writing/</guid>
+      <guid>http://localhost:1313/categories/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Absolute</title>
-      <link>https://eyeofparadox.github.io/categories/absolute/</link>
+      <link>http://localhost:1313/categories/absolute/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/absolute/</guid>
+      <guid>http://localhost:1313/categories/absolute/</guid>
       <description></description>
     </item>
     <item>
       <title>Dimensions</title>
-      <link>https://eyeofparadox.github.io/categories/dimensions/</link>
+      <link>http://localhost:1313/categories/dimensions/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/dimensions/</guid>
+      <guid>http://localhost:1313/categories/dimensions/</guid>
       <description></description>
     </item>
     <item>
       <title>Distributed-Process</title>
-      <link>https://eyeofparadox.github.io/categories/distributed-process/</link>
+      <link>http://localhost:1313/categories/distributed-process/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/distributed-process/</guid>
+      <guid>http://localhost:1313/categories/distributed-process/</guid>
       <description></description>
     </item>
     <item>
       <title>Epiphanies</title>
-      <link>https://eyeofparadox.github.io/categories/epiphanies/</link>
+      <link>http://localhost:1313/categories/epiphanies/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/epiphanies/</guid>
+      <guid>http://localhost:1313/categories/epiphanies/</guid>
       <description></description>
     </item>
     <item>
       <title>Gravity</title>
-      <link>https://eyeofparadox.github.io/categories/gravity/</link>
+      <link>http://localhost:1313/categories/gravity/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/gravity/</guid>
+      <guid>http://localhost:1313/categories/gravity/</guid>
       <description></description>
     </item>
     <item>
       <title>Paradox</title>
-      <link>https://eyeofparadox.github.io/categories/paradox/</link>
+      <link>http://localhost:1313/categories/paradox/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/paradox/</guid>
+      <guid>http://localhost:1313/categories/paradox/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal-Musings</title>
-      <link>https://eyeofparadox.github.io/categories/personal-musings/</link>
+      <link>http://localhost:1313/categories/personal-musings/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/personal-musings/</guid>
+      <guid>http://localhost:1313/categories/personal-musings/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>https://eyeofparadox.github.io/categories/physics/</link>
+      <link>http://localhost:1313/categories/physics/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/physics/</guid>
+      <guid>http://localhost:1313/categories/physics/</guid>
       <description></description>
     </item>
     <item>
       <title>Singularity</title>
-      <link>https://eyeofparadox.github.io/categories/singularity/</link>
+      <link>http://localhost:1313/categories/singularity/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/singularity/</guid>
+      <guid>http://localhost:1313/categories/singularity/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>https://eyeofparadox.github.io/categories/space/</link>
+      <link>http://localhost:1313/categories/space/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/space/</guid>
+      <guid>http://localhost:1313/categories/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Time</title>
-      <link>https://eyeofparadox.github.io/categories/time/</link>
+      <link>http://localhost:1313/categories/time/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/time/</guid>
+      <guid>http://localhost:1313/categories/time/</guid>
       <description></description>
     </item>
     <item>
       <title>Understanding</title>
-      <link>https://eyeofparadox.github.io/categories/understanding/</link>
+      <link>http://localhost:1313/categories/understanding/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/understanding/</guid>
+      <guid>http://localhost:1313/categories/understanding/</guid>
       <description></description>
     </item>
     <item>
       <title>Universe</title>
-      <link>https://eyeofparadox.github.io/categories/universe/</link>
+      <link>http://localhost:1313/categories/universe/</link>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/universe/</guid>
+      <guid>http://localhost:1313/categories/universe/</guid>
       <description></description>
     </item>
     <item>
       <title>Auto-Publishing</title>
-      <link>https://eyeofparadox.github.io/categories/auto-publishing/</link>
+      <link>http://localhost:1313/categories/auto-publishing/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/auto-publishing/</guid>
+      <guid>http://localhost:1313/categories/auto-publishing/</guid>
       <description></description>
     </item>
     <item>
       <title>Inspirations</title>
-      <link>https://eyeofparadox.github.io/categories/inspirations/</link>
+      <link>http://localhost:1313/categories/inspirations/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/inspirations/</guid>
+      <guid>http://localhost:1313/categories/inspirations/</guid>
       <description></description>
     </item>
     <item>
       <title>Notation</title>
-      <link>https://eyeofparadox.github.io/categories/notation/</link>
+      <link>http://localhost:1313/categories/notation/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/notation/</guid>
+      <guid>http://localhost:1313/categories/notation/</guid>
       <description></description>
     </item>
     <item>
       <title>Paper</title>
-      <link>https://eyeofparadox.github.io/categories/paper/</link>
+      <link>http://localhost:1313/categories/paper/</link>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/paper/</guid>
+      <guid>http://localhost:1313/categories/paper/</guid>
       <description></description>
     </item>
     <item>
       <title>Article</title>
-      <link>https://eyeofparadox.github.io/categories/article/</link>
+      <link>http://localhost:1313/categories/article/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/article/</guid>
+      <guid>http://localhost:1313/categories/article/</guid>
       <description></description>
     </item>
     <item>
       <title>Awareness</title>
-      <link>https://eyeofparadox.github.io/categories/awareness/</link>
+      <link>http://localhost:1313/categories/awareness/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/awareness/</guid>
+      <guid>http://localhost:1313/categories/awareness/</guid>
       <description></description>
     </item>
     <item>
       <title>Free-Will</title>
-      <link>https://eyeofparadox.github.io/categories/free-will/</link>
+      <link>http://localhost:1313/categories/free-will/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/free-will/</guid>
+      <guid>http://localhost:1313/categories/free-will/</guid>
       <description></description>
     </item>
     <item>
       <title>Mind</title>
-      <link>https://eyeofparadox.github.io/categories/mind/</link>
+      <link>http://localhost:1313/categories/mind/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/mind/</guid>
+      <guid>http://localhost:1313/categories/mind/</guid>
       <description></description>
     </item>
     <item>
       <title>Degreestory</title>
-      <link>https://eyeofparadox.github.io/categories/degreestory/</link>
+      <link>http://localhost:1313/categories/degreestory/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/degreestory/</guid>
+      <guid>http://localhost:1313/categories/degreestory/</guid>
       <description></description>
     </item>
     <item>
       <title>Despair</title>
-      <link>https://eyeofparadox.github.io/categories/despair/</link>
+      <link>http://localhost:1313/categories/despair/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/despair/</guid>
+      <guid>http://localhost:1313/categories/despair/</guid>
       <description></description>
     </item>
     <item>
       <title>Editorial</title>
-      <link>https://eyeofparadox.github.io/categories/editorial/</link>
+      <link>http://localhost:1313/categories/editorial/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/editorial/</guid>
+      <guid>http://localhost:1313/categories/editorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>https://eyeofparadox.github.io/categories/education/</link>
+      <link>http://localhost:1313/categories/education/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/education/</guid>
+      <guid>http://localhost:1313/categories/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Existentialism</title>
-      <link>https://eyeofparadox.github.io/categories/existentialism/</link>
+      <link>http://localhost:1313/categories/existentialism/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/existentialism/</guid>
+      <guid>http://localhost:1313/categories/existentialism/</guid>
       <description></description>
     </item>
     <item>
       <title>Fair-Play</title>
-      <link>https://eyeofparadox.github.io/categories/fair-play/</link>
+      <link>http://localhost:1313/categories/fair-play/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/fair-play/</guid>
+      <guid>http://localhost:1313/categories/fair-play/</guid>
       <description></description>
     </item>
     <item>
       <title>Gender</title>
-      <link>https://eyeofparadox.github.io/categories/gender/</link>
+      <link>http://localhost:1313/categories/gender/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/gender/</guid>
+      <guid>http://localhost:1313/categories/gender/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity</title>
-      <link>https://eyeofparadox.github.io/categories/identity/</link>
+      <link>http://localhost:1313/categories/identity/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/identity/</guid>
+      <guid>http://localhost:1313/categories/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Jobs</title>
-      <link>https://eyeofparadox.github.io/categories/jobs/</link>
+      <link>http://localhost:1313/categories/jobs/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/jobs/</guid>
+      <guid>http://localhost:1313/categories/jobs/</guid>
       <description></description>
     </item>
     <item>
       <title>Soul</title>
-      <link>https://eyeofparadox.github.io/categories/soul/</link>
+      <link>http://localhost:1313/categories/soul/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/soul/</guid>
+      <guid>http://localhost:1313/categories/soul/</guid>
       <description></description>
     </item>
     <item>
       <title>Suffering</title>
-      <link>https://eyeofparadox.github.io/categories/suffering/</link>
+      <link>http://localhost:1313/categories/suffering/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/suffering/</guid>
+      <guid>http://localhost:1313/categories/suffering/</guid>
       <description></description>
     </item>
     <item>
       <title>Transgender</title>
-      <link>https://eyeofparadox.github.io/categories/transgender/</link>
+      <link>http://localhost:1313/categories/transgender/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/transgender/</guid>
+      <guid>http://localhost:1313/categories/transgender/</guid>
       <description></description>
     </item>
     <item>
       <title>Truth</title>
-      <link>https://eyeofparadox.github.io/categories/truth/</link>
+      <link>http://localhost:1313/categories/truth/</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/truth/</guid>
+      <guid>http://localhost:1313/categories/truth/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>https://eyeofparadox.github.io/categories/reflection/</link>
+      <link>http://localhost:1313/categories/reflection/</link>
       <pubDate>Sat, 20 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/reflection/</guid>
+      <guid>http://localhost:1313/categories/reflection/</guid>
       <description></description>
     </item>
     <item>
       <title>Death</title>
-      <link>https://eyeofparadox.github.io/categories/death/</link>
+      <link>http://localhost:1313/categories/death/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/death/</guid>
+      <guid>http://localhost:1313/categories/death/</guid>
       <description></description>
     </item>
     <item>
       <title>End-of-the-World</title>
-      <link>https://eyeofparadox.github.io/categories/end-of-the-world/</link>
+      <link>http://localhost:1313/categories/end-of-the-world/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/end-of-the-world/</guid>
+      <guid>http://localhost:1313/categories/end-of-the-world/</guid>
       <description></description>
     </item>
     <item>
       <title>Individuality</title>
-      <link>https://eyeofparadox.github.io/categories/individuality/</link>
+      <link>http://localhost:1313/categories/individuality/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/individuality/</guid>
+      <guid>http://localhost:1313/categories/individuality/</guid>
       <description></description>
     </item>
     <item>
       <title>Suicide</title>
-      <link>https://eyeofparadox.github.io/categories/suicide/</link>
+      <link>http://localhost:1313/categories/suicide/</link>
       <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/suicide/</guid>
+      <guid>http://localhost:1313/categories/suicide/</guid>
       <description></description>
     </item>
     <item>
       <title>Society</title>
-      <link>https://eyeofparadox.github.io/categories/society/</link>
+      <link>http://localhost:1313/categories/society/</link>
       <pubDate>Sun, 27 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/society/</guid>
+      <guid>http://localhost:1313/categories/society/</guid>
       <description></description>
     </item>
     <item>
       <title>Short-Fiction</title>
-      <link>https://eyeofparadox.github.io/categories/short-fiction/</link>
+      <link>http://localhost:1313/categories/short-fiction/</link>
       <pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/short-fiction/</guid>
+      <guid>http://localhost:1313/categories/short-fiction/</guid>
       <description></description>
     </item>
     <item>
       <title>Voices-in-My-Head</title>
-      <link>https://eyeofparadox.github.io/categories/voices-in-my-head/</link>
+      <link>http://localhost:1313/categories/voices-in-my-head/</link>
       <pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/voices-in-my-head/</guid>
+      <guid>http://localhost:1313/categories/voices-in-my-head/</guid>
       <description></description>
     </item>
     <item>
       <title>Discrimination</title>
-      <link>https://eyeofparadox.github.io/categories/discrimination/</link>
+      <link>http://localhost:1313/categories/discrimination/</link>
       <pubDate>Fri, 24 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/discrimination/</guid>
+      <guid>http://localhost:1313/categories/discrimination/</guid>
       <description></description>
     </item>
     <item>
       <title>Reader-Response</title>
-      <link>https://eyeofparadox.github.io/categories/reader-response/</link>
+      <link>http://localhost:1313/categories/reader-response/</link>
       <pubDate>Fri, 24 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/reader-response/</guid>
+      <guid>http://localhost:1313/categories/reader-response/</guid>
       <description></description>
     </item>
     <item>
       <title>Friend</title>
-      <link>https://eyeofparadox.github.io/categories/friend/</link>
+      <link>http://localhost:1313/categories/friend/</link>
       <pubDate>Sat, 11 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/friend/</guid>
+      <guid>http://localhost:1313/categories/friend/</guid>
       <description></description>
     </item>
     <item>
       <title>Stranger</title>
-      <link>https://eyeofparadox.github.io/categories/stranger/</link>
+      <link>http://localhost:1313/categories/stranger/</link>
       <pubDate>Tue, 07 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/stranger/</guid>
+      <guid>http://localhost:1313/categories/stranger/</guid>
       <description></description>
     </item>
     <item>
       <title>Minorities</title>
-      <link>https://eyeofparadox.github.io/categories/minorities/</link>
+      <link>http://localhost:1313/categories/minorities/</link>
       <pubDate>Thu, 25 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/minorities/</guid>
+      <guid>http://localhost:1313/categories/minorities/</guid>
       <description></description>
     </item>
     <item>
       <title>Helium</title>
-      <link>https://eyeofparadox.github.io/categories/helium/</link>
+      <link>http://localhost:1313/categories/helium/</link>
       <pubDate>Fri, 03 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/helium/</guid>
+      <guid>http://localhost:1313/categories/helium/</guid>
       <description></description>
     </item>
     <item>
       <title>Voidscapes</title>
-      <link>https://eyeofparadox.github.io/categories/voidscapes/</link>
+      <link>http://localhost:1313/categories/voidscapes/</link>
       <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/voidscapes/</guid>
+      <guid>http://localhost:1313/categories/voidscapes/</guid>
       <description></description>
     </item>
     <item>
       <title>Mathematics</title>
-      <link>https://eyeofparadox.github.io/categories/mathematics/</link>
+      <link>http://localhost:1313/categories/mathematics/</link>
       <pubDate>Thu, 18 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/mathematics/</guid>
+      <guid>http://localhost:1313/categories/mathematics/</guid>
       <description></description>
     </item>
     <item>
       <title>Social-Stratification</title>
-      <link>https://eyeofparadox.github.io/categories/social-stratification/</link>
+      <link>http://localhost:1313/categories/social-stratification/</link>
       <pubDate>Wed, 14 May 2008 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/social-stratification/</guid>
+      <guid>http://localhost:1313/categories/social-stratification/</guid>
       <description></description>
     </item>
     <item>
       <title>Evil</title>
-      <link>https://eyeofparadox.github.io/categories/evil/</link>
+      <link>http://localhost:1313/categories/evil/</link>
       <pubDate>Wed, 22 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/evil/</guid>
+      <guid>http://localhost:1313/categories/evil/</guid>
       <description></description>
     </item>
     <item>
       <title>Sociology</title>
-      <link>https://eyeofparadox.github.io/categories/sociology/</link>
+      <link>http://localhost:1313/categories/sociology/</link>
       <pubDate>Wed, 22 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/sociology/</guid>
+      <guid>http://localhost:1313/categories/sociology/</guid>
       <description></description>
     </item>
     <item>
       <title>Enemy</title>
-      <link>https://eyeofparadox.github.io/categories/enemy/</link>
+      <link>http://localhost:1313/categories/enemy/</link>
       <pubDate>Mon, 13 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/enemy/</guid>
+      <guid>http://localhost:1313/categories/enemy/</guid>
       <description></description>
     </item>
     <item>
       <title>Lindsay-Lohan</title>
-      <link>https://eyeofparadox.github.io/categories/lindsay-lohan/</link>
+      <link>http://localhost:1313/categories/lindsay-lohan/</link>
       <pubDate>Thu, 09 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/lindsay-lohan/</guid>
+      <guid>http://localhost:1313/categories/lindsay-lohan/</guid>
       <description></description>
     </item>
     <item>
       <title>Open-Letter</title>
-      <link>https://eyeofparadox.github.io/categories/open-letter/</link>
+      <link>http://localhost:1313/categories/open-letter/</link>
       <pubDate>Thu, 09 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/open-letter/</guid>
+      <guid>http://localhost:1313/categories/open-letter/</guid>
       <description></description>
     </item>
     <item>
       <title>Six-Degrees-of-Separation</title>
-      <link>https://eyeofparadox.github.io/categories/six-degrees-of-separation/</link>
+      <link>http://localhost:1313/categories/six-degrees-of-separation/</link>
       <pubDate>Thu, 09 Aug 2007 00:00:00 +0000</pubDate>
-      <guid>https://eyeofparadox.github.io/categories/six-degrees-of-separation/</guid>
+      <guid>http://localhost:1313/categories/six-degrees-of-separation/</guid>
       <description></description>
     </item>
   </channel>
