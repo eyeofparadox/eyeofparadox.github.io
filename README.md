@@ -7,7 +7,7 @@ This README explains to future readers how and why the archive is structured the
 
 ---
 
-# eyeofparadox.wordpress.com -> github.com/eyeofparadox/echo.wordpress.blog
+# eyeofparadox.wordpress.com -> eyeofparadox.github.io
 
 I’ve been scratching out ideas since the writing bug first bit me in grade school. Somewhere in the back of my mind I always had this notion that I was going to devote some part of my life to writing. Of course, I’ve spent much more time thinking, while trying to find time to get anything written! 
 
