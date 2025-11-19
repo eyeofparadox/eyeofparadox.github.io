@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on eyeofparadox.wordpress.echo</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on eyeofparadox.wordpress.echo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital-Marketing</title>
+      <link>http://localhost:1313/tags/digital-marketing/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>http://localhost:1313/tags/wordpress/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Absolute</title>
+      <link>http://localhost:1313/tags/absolute/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/absolute/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abstract</title>
+      <link>http://localhost:1313/tags/abstract/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/abstract/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial-Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blind-Spots</title>
+      <link>http://localhost:1313/tags/blind-spots/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blind-spots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coherence</title>
+      <link>http://localhost:1313/tags/coherence/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/coherence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conservation</title>
+      <link>http://localhost:1313/tags/conservation/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/conservation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Context</title>
+      <link>http://localhost:1313/tags/context/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Continuum-Dynamics</title>
+      <link>http://localhost:1313/tags/continuum-dynamics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/continuum-dynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark-Energy</title>
+      <link>http://localhost:1313/tags/dark-energy/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dark-energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discrete-Tangibility</title>
+      <link>http://localhost:1313/tags/discrete-tangibility/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/discrete-tangibility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Distributed-Process</title>
+      <link>http://localhost:1313/tags/distributed-process/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/distributed-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynamics</title>
+      <link>http://localhost:1313/tags/dynamics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emergent-Solidity</title>
+      <link>http://localhost:1313/tags/emergent-solidity/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/emergent-solidity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy</title>
+      <link>http://localhost:1313/tags/energy/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy-Commitment</title>
+      <link>http://localhost:1313/tags/energy-commitment/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-commitment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy-Investment</title>
+      <link>http://localhost:1313/tags/energy-investment/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy-Vectors</title>
+      <link>http://localhost:1313/tags/energy-vectors/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/energy-vectors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entropy</title>
+      <link>http://localhost:1313/tags/entropy/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/entropy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Envelope-of-Nonlocality</title>
+      <link>http://localhost:1313/tags/envelope-of-nonlocality/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/envelope-of-nonlocality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epiphany</title>
+      <link>http://localhost:1313/tags/epiphany/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/epiphany/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expansion</title>
+      <link>http://localhost:1313/tags/expansion/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/expansion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Field</title>
+      <link>http://localhost:1313/tags/field/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/field/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ftl</title>
+      <link>http://localhost:1313/tags/ftl/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ftl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fundamental-Process</title>
+      <link>http://localhost:1313/tags/fundamental-process/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fundamental-process/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gatekeeping</title>
+      <link>http://localhost:1313/tags/gatekeeping/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gatekeeping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General-Relativity</title>
+      <link>http://localhost:1313/tags/general-relativity/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/general-relativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gravity</title>
+      <link>http://localhost:1313/tags/gravity/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gravity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hyperpoint</title>
+      <link>http://localhost:1313/tags/hyperpoint/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hyperpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hypersphere</title>
+      <link>http://localhost:1313/tags/hypersphere/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hypersphere/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Information</title>
+      <link>http://localhost:1313/tags/information/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/information/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interaction</title>
+      <link>http://localhost:1313/tags/interaction/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/interaction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manifest</title>
+      <link>http://localhost:1313/tags/manifest/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/manifest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathematics</title>
+      <link>http://localhost:1313/tags/mathematics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mathematics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Measurement-Problem</title>
+      <link>http://localhost:1313/tags/measurement-problem/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/measurement-problem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misattribution</title>
+      <link>http://localhost:1313/tags/misattribution/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/misattribution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misconception</title>
+      <link>http://localhost:1313/tags/misconception/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/misconception/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Motion</title>
+      <link>http://localhost:1313/tags/motion/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/motion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ontological-Restructuring</title>
+      <link>http://localhost:1313/tags/ontological-restructuring/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ontological-restructuring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ontology</title>
+      <link>http://localhost:1313/tags/ontology/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ontology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Particle</title>
+      <link>http://localhost:1313/tags/particle/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/particle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Persistence</title>
+      <link>http://localhost:1313/tags/persistence/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/persistence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perspective</title>
+      <link>http://localhost:1313/tags/perspective/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/perspective/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics-2</title>
+      <link>http://localhost:1313/tags/physics-2/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/physics-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Point-Paradox</title>
+      <link>http://localhost:1313/tags/point-paradox/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/point-paradox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qualia</title>
+      <link>http://localhost:1313/tags/qualia/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/qualia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quanta</title>
+      <link>http://localhost:1313/tags/quanta/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quanta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum-Mechanics</title>
+      <link>http://localhost:1313/tags/quantum-mechanics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-mechanics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reconciliation</title>
+      <link>http://localhost:1313/tags/reconciliation/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reconciliation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recursive-Declaration-of-Structure</title>
+      <link>http://localhost:1313/tags/recursive-declaration-of-structure/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/recursive-declaration-of-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redistribution</title>
+      <link>http://localhost:1313/tags/redistribution/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/redistribution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relationality</title>
+      <link>http://localhost:1313/tags/relationality/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/relationality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relativity</title>
+      <link>http://localhost:1313/tags/relativity/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/relativity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendering</title>
+      <link>http://localhost:1313/tags/rendering/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rendering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Rendering-Architecture</title>
+      <link>http://localhost:1313/tags/self-rendering-architecture/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/self-rendering-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulation</title>
+      <link>http://localhost:1313/tags/simulation/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space</title>
+      <link>http://localhost:1313/tags/space/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/space/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spacetime-Curvature</title>
+      <link>http://localhost:1313/tags/spacetime-curvature/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spacetime-curvature/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spacetime-Quantization</title>
+      <link>http://localhost:1313/tags/spacetime-quantization/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spacetime-quantization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statics</title>
+      <link>http://localhost:1313/tags/statics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/statics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Structure</title>
+      <link>http://localhost:1313/tags/structure/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thermodynamics</title>
+      <link>http://localhost:1313/tags/thermodynamics/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thermodynamics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time</title>
+      <link>http://localhost:1313/tags/time/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time-Dilation</title>
+      <link>http://localhost:1313/tags/time-dilation/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/time-dilation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vector-Flow</title>
+      <link>http://localhost:1313/tags/vector-flow/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vector-flow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vectorization</title>
+      <link>http://localhost:1313/tags/vectorization/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vectorization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Work-Investment</title>
+      <link>http://localhost:1313/tags/work-investment/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/work-investment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>http://localhost:1313/tags/code/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concept</title>
+      <link>http://localhost:1313/tags/concept/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/concept/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logic</title>
+      <link>http://localhost:1313/tags/logic/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/logic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mind</title>
+      <link>http://localhost:1313/tags/mind/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mind/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notation</title>
+      <link>http://localhost:1313/tags/notation/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proposed</title>
+      <link>http://localhost:1313/tags/proposed/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/proposed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paradox</title>
+      <link>http://localhost:1313/tags/paradox/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/paradox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Realization</title>
+      <link>http://localhost:1313/tags/realization/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/realization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>http://localhost:1313/tags/reflection/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Truth</title>
+      <link>http://localhost:1313/tags/truth/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/truth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Despair</title>
+      <link>http://localhost:1313/tags/despair/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/despair/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hope</title>
+      <link>http://localhost:1313/tags/hope/</link>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hope/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Black-Holes</title>
+      <link>http://localhost:1313/tags/black-holes/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/black-holes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Event-Horizon</title>
+      <link>http://localhost:1313/tags/event-horizon/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/event-horizon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Forces</title>
+      <link>http://localhost:1313/tags/forces/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/forces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inquiry</title>
+      <link>http://localhost:1313/tags/inquiry/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inquiry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Magnetic-Forces</title>
+      <link>http://localhost:1313/tags/magnetic-forces/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/magnetic-forces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nuclear-Forces</title>
+      <link>http://localhost:1313/tags/nuclear-forces/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nuclear-forces/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Singularity-2</title>
+      <link>http://localhost:1313/tags/singularity-2/</link>
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/singularity-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intent</title>
+      <link>http://localhost:1313/tags/intent/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/intent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Universe</title>
+      <link>http://localhost:1313/tags/universe/</link>
+      <pubDate>Mon, 06 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/universe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Do-the-Right-Thing</title>
+      <link>http://localhost:1313/tags/do-the-right-thing/</link>
+      <pubDate>Sun, 27 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/do-the-right-thing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humanity</title>
+      <link>http://localhost:1313/tags/humanity/</link>
+      <pubDate>Sun, 27 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/humanity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epiphanies</title>
+      <link>http://localhost:1313/tags/epiphanies/</link>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/epiphanies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soul</title>
+      <link>http://localhost:1313/tags/soul/</link>
+      <pubDate>Sat, 26 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/soul/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fiction</title>
+      <link>http://localhost:1313/tags/fiction/</link>
+      <pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Free-Will</title>
+      <link>http://localhost:1313/tags/free-will/</link>
+      <pubDate>Sun, 26 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/free-will/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Childhood</title>
+      <link>http://localhost:1313/tags/childhood/</link>
+      <pubDate>Fri, 24 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/childhood/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gender</title>
+      <link>http://localhost:1313/tags/gender/</link>
+      <pubDate>Fri, 24 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gender/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outcast</title>
+      <link>http://localhost:1313/tags/outcast/</link>
+      <pubDate>Wed, 22 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/outcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dimension</title>
+      <link>http://localhost:1313/tags/dimension/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fourth-Dimension</title>
+      <link>http://localhost:1313/tags/fourth-dimension/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fourth-dimension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matter</title>
+      <link>http://localhost:1313/tags/matter/</link>
+      <pubDate>Wed, 08 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/matter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Purpose</title>
+      <link>http://localhost:1313/tags/purpose/</link>
+      <pubDate>Sun, 28 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/purpose/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Illustration</title>
+      <link>http://localhost:1313/tags/illustration/</link>
+      <pubDate>Tue, 30 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/illustration/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
