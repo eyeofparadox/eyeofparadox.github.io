@@ -38,3 +38,5 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true   # ensures gh-pages is wiped before publishing
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
