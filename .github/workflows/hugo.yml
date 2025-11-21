@@ -36,4 +36,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages   # <— add this line
+          publish_branch: gh-pages
+          force_orphan: true   # ensures gh-pages is wiped before publishing
