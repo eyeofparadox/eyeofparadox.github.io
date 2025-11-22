@@ -4,3 +4,6 @@
 [submodule "themes/tailwind"]
 	path = themes/tailwind
 	url = https://github.com/tomowang/hugo-theme-tailwind.git
+[submodule "themes/hugo-theme-tailwind"]
+	path = themes/hugo-theme-tailwind
+	url = https://github.com/eyeofparadox/hugo-theme-tailwind
