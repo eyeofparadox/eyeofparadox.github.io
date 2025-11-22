@@ -1,0 +1,334 @@
+---
+title: "Fallen Angel"
+date: 2009-06-22
+---
+
+Rachel found her brother sitting at the crest of the ridge bordering the easternmost edge of their family's sprawling ranch. His disappearance shortly after the world wide war warning had struck her as unsurprising, and typically reckless. Granted, the shooting was still a way off in interplanetary space, but it was just like him to want to be as close to the action as he could get. Pausing to take in the view, she did have to admit that his perch commanded an excellent view of the early evening sky.
+
+“So, you plan to just sit here and watch it all come down around your ears?” she asked casually, calling his attention to her.
+
+Eric turned toward her with a wave and an excited declaration, “You're just in time, Ray! The sun is going down, so we'll be able to see more of the action!”
+
+“I knew it!” Rachel growled, bracing her hands on her hips. “Did it even occur to you that it might be a good idea to take shelter?”
+
+“Oh, come on, Ray!” Eric begged, in a slightly wounded air. “You know as well as I do that a storm shelter is no protection from direct orbital bombardment. Anything less than that, the atmosphere will shield us from.”
+
+“That's not the point, Eric, and you know it.” Rachel came up beside him to study the eastern horizon. “Just because the fighting is out there doesn't mean there won't be any fallout down here. The only good thing about you being out here, is that it proves you had nothing to do with stealing one of their ships,” she commented with wry relief.
+
+“Gee, thanks, Sis,” Eric replied scornfully. He knew her comment was mostly in jest, ribbing him for his well known obsession over anything that had to do with space.
+
+“You're welcome. Now, since you got me out here, what's happened? Can you even tell at this distance?” Rachel lifted a hand to block out the sun's sidelong glare and peered up into the blue.
+
+He gestured toward the ear bug he was wearing and commented, “As it happens, the government has denied any involvement in the alleged theft. As desperate as we are...” he added, speaking on behalf of their government, “...to get our hands on a modern warship—or at least the cutting edge technology that goes into one—it's just not within our means. All it would accomplish is to bring on exactly the type of invasion we're seeing now.”
+
+Rachel nodded, acknowledging the obvious. “But, unless there's some truth to their accusation, this would be an unprovoked attack,” she pointed out bluntly.
+
+“Or, the whole thing is a ploy to justify the invasion,” Eric proposed. He turned to look up at her and challenged, “You were never very interested in this stuff. What do you actually know about the AEGIS?”
+
+Rachel looked down at him and shrugged, “I know that started as international effort to explore and develop resources in space.”
+
+Eric nodded, interjecting, “That's right, and as a result no individual nation on Earth ended up with exclusive authority in space. The International Space Agency evolved into the multi-national Solar Authority, responsible for mounting the first and second colonization waves.”
+
+“And that expansion caused it to become the Interstellar Authority,” Rachel resumed. Finding herself a perch and settling down, she continued, “Due to the demands of exploring, regulating and policing more and more territory between worlds, the IA eventually became something of an extra-planetary nation, an independent entity subsidized by a coalition of planetary governments.”
+
+“Yeah, well, that police force grew into a full navy, with fleets stationed at every major core world, task groups picketing most of the minor ones, and light formations patrolling the trade routes alert for ships in distress or outright piracy,” Eric elaborated, still keeping one eye on the sky. “The same growth and expansion forced them to invest heavily in the research and development of FTL propulsion and communication, which pulled everything together into a singular, coordinated body and allowed them to declare themselves the first interstellar establishment.”
+
+“You mean empire,” Rachel corrected aridly.
+
+“To call it what it is,” Eric admitted, giving her a wry smile. “They certainly tried to avoid presenting themselves as an empire, emphasizing their multi-national origins and presenting themselves as the lynch pin for an alliance with the whole galaxy as its inevitable scope of operations.” He paused to clear his throat before drawing the topic back to the situation at hand. “To ensure that it remained a largely uncontested power, or as they say, to preempt the possibility of factionalism leading to interstellar warfare, the Allied Establishment of Galactic Interstellar Space set out to reestablish contact with the outer colonies, establish new ties of alliance with their governments and bring their worlds firmly into the fold.
+
+“Mead, being relatively close to the core worlds, managed to become established in its own right well before the arrival of the first FTL ships. Since then, it's been a struggle for us to retain our independence. Our tech base was two-hundred years behind that of the AEGIS and our refusal to bow to the demands and conditions of membership in the AEGIS resulted in a technological embargo designed to force us into submission,” Eric summarized bitterly.
+
+“Except, our founders set out with the assumption that we would be isolated and on our own, and set out equipped for it,” Rachel asserted proudly.
+
+“Which did not make it any less painful when they flaunted their technology in our faces, withholding it from us even in the wake of natural disasters,” Eric countered. Taking a deep breath, he focused on his initial point, “Because of all of these things, it became imperative for us to acquire more advanced technologies however we could. The constant threat of assimilation forced us to invest as heavily as possible in the construction of our defense fleet. It's mostly composed of frigates and destroyers, with a few cruiser divisions for muscle, and station-based fighter wings supported by orbital missile and energy platforms.
+
+“We've begged, borrowed and even stolen the technology needed to build all of that, and nothing else native to this system comes close to touching the sophistication of our fleet, but it's still generations out of date by AEGIS Navy standards,” Eric finally informed her.
+
+Rachel nodded, understanding precisely how unlikely it was for her government or its military to risk provoking the AEGIS now that she could see the bigger picture. “And now those ships have to go up against the best navy in the known galaxy,” Rachel murmured with a sense of anguish.
+
+“Whether they want to or not,” Eric agreed with a similar sentiment.
+
+“How bad is it going?” Rachel asked, preferring to hear the news from Eric than listen to the official broadcast he was listening to.
+
+“It's been pretty tame so far,” Eric admitted with a hint of caution. “They're just past turn-around and are decelerating in-system. Even with a QUAD, it takes hours for star ships to reach us from the outer system,” he reminded her. The Quantum Uniform Acceleration Drive of the AEGIS ships enabled them to generate virtually impossible rates of acceleration. Rachel did not really understand how it worked, but what she had been told was that the drive generated a field effect that induced motion through a peculiar 'deformation' of matter. However that worked, precisely, the process distributed energy—which became vectored kinetic energy—uniformly to every particle within the field of effect. As a result, there were no negative inertial effects to compensate for.
+
+“You mean, they can't just race in and then slam on the breaks?” Rachel tested.
+
+“Oh, I am sure they could, if they wanted to expend the reactor mass,” Eric responded, knowing better than to try to explain his answer in this case. “They should be coming into range of the mid-system orbital defenses right about now,” he added, referring to the installations guarding the extraction facilities and refineries of the system's main asteroid belt.
+
+It took a few minutes for the glare of explosions to reach Mead from the belt, strobing like a shoal of flashbulbs. “Well, it looks like they're serious. I'd say, from what we're seeing, they have a carrier and they have deployed fighters.”
+
+Rachel looked at him, biting her lip in anxiety. To an uninformed observer like herself, it was difficult to interpret the tiny, distant flickers of destruction. As the sun set and the stars came out, it became even more difficult, but Eric provided commentary and somehow she forgot that she was supposed to drag him back to shelter. It was eerie, watching that silent display of fireworks, growing more and more apprehensive as they grew larger and appreciably closer. From the length of the engagement, Eric suspected that the system defense forces—what there were of them—had gone out to meet the invading ships.
+
+After more careful consideration, Eric confided that—from what they had seen so far—their light forces had to have been backed up by the ship the AEGIS accused them of stealing, or the battle would have already been over.
+
+Whatever it was, that stolen ship was tremendously powerful to stand up to the task force sent to recapture it, with only Mead's light units to screen and reinforce it. Even that was not enough, however, as the enemy closed in on the planet itself. The ships, so large in their own right, yet so small on a stellar scale, could barely be seen as they forced the defenders into a high orbital engagement. The slivers and shards of metal Rachel could see with the naked eye were vessels two to three kilometers long. The tiny lights darting between them were missiles or fighters, and finally, some sound could be heard as planet based fighters were deployed from widely scattered bases to meet the enemy fighters descending upon them from the heavens.
+
+Rachel looked up as a flight of trans-atmospheric fighters raced overhead from the nearest base, riding their powerful boosters out of the stratosphere.
+
+“This is getting real ugly, Eric. Maybe it's time for us to get under cover,” Rachel suggested nervously.
+
+“You might be right. I didn't expect them to come dirt side, but now that I think of it, it's their best move if they can't take out that rogue from space,” Eric noted warily, getting urgently back to his feet. Taking Rachel's hand, he led her back down the ridge toward where he'd parked his personal flyer. He noticed that hers was parked right next to his, and released her hand. “We're going to have to stick close to the ground. We don't want to draw any attention from either side,” he warned.
+
+“You got it!” she answered with anxious enthusiasm, climbing onto her tiny flyer.
+
+In moments, the pair had their engines humming, the minimal preflight required completed, and a quick boost from their belly thrusters had them racing toward home. As the ground blurred past, they both were nearly stunned when a deafening roar rolled over them, the turbulence threatening to knock their light craft out of the air. Their eyes were drawn at once to the flaming star fighter. They watched in horror, as it struggled desperately to maintain altitude with heat warped and battle damaged wings. In a flash, it was past them, hurtling dangerously low over the compound containing their home and all of the ranch's support buildings. Weaving between towering trees and steep hills, the fighter disappeared into a forested ravine painfully short of the horizon. A heartbeat later came the explosive rumble of impact, highlighted by an expanding ball of flame in the depths of the woods.
+
+Eric's voice came over the civilian band com, “I don't think that was the fighter. I think he dropped his ordinance just short of the crash.”
+
+“What's your point, Eric?” Rachel snapped, still gulping for a stable breath after the close call.
+
+“I think we should go see if there were any survivors,” Eric replied firmly.
+
+“Eric! That was an AEGIS fighter!” Rachel protested, in shock.
+
+“I know that. But, enemy or not, they're still human, and they could be injured and dying,” he argued, deliberately going for her weak spot. “We're here, we know where to look. We can beat the quickest response from the base by half an hour,” he claimed, turning to match vectors with the downed craft.
+
+“Damn it, Eric! Fine, you're right. The pilot probably does need help, but for the love of Mike, you've got to be careful! You take too many risks as it is!” Rachel complained, altering course to follow her brother.
+
+“Roger that, Little Sister,” Eric retorted with a smirk in his voice.
+
+* * *
+
+Light from several fires flickered through the canopy of Mead's towering trees. The enemy fighter had cleared a path to its final resting place, but Eric and Rachel were forced to land in a clearing a decent hike from the wreck. They confirmed that the pilot had indeed dumped any remaining fuel and ordinance just short of where he crashed. The fuel had burned hot enough to char the native plants, but the explosions from the ordinance had all but blown the fire out. Not that a wildfire was the greatest threat they faced. Mead's natural predators had no qualms about feasting on alien flesh, and on their own hunting grounds they often needed to be reminded that humans were dangerous prey to tangle with. Trudging carefully around dying flames and through the blasted, blackened ashes the inferno had left behind, brother and sister crept toward the downed fighter. To augment their usual side arms, Rachel and Eric had brought along the rifles that had been racked in their flyers.
+
+As they approached the wreck, they brought up their rifles and kept a sharp eye out for possible ambush. Though in this case it was a human threat they were more wary of. Soon enough, they stood over the cockpit. The pilot could just barely be seen through the debris occluded, clear composite armor.
+
+“He's still inside. Damn. Hope he's not dead,” Eric commented, crouching down to reach for the external release mechanism. “Guess this is a job for you, Sis,” he added, unlatching the canopy and allowing air to hiss through the seal.
+
+“Right,” Rachel said, squatting down beside him to help him force the cockpit open. Once she had room, she slipped in and carefully straddled the pilot in the confined space, checking his vitals manually, and scanning the compartment for any obvious weapons or dangers. The pilot was sealed into a skin tight flight suit, the design of which suggested that it served as an environmental suit. “The air's clean. No trace of smoke, or contamination,” she announced, while adjusting her grip on the pilot's wrist. Rachel was not having much luck checking vitals through the deceptively thick, pressurized material. Shaking her head, she moved her hands up to his neck, still searching for a pulse.
+
+She discovered the helmet's release mechanisms, and wrestled it off, biting her lip apprehensively over the fact that she had not seen the pilot's chest noticeably rise or fall. “I don't think... wait...” Rachel leaned close, putting her cheek close to the pilot's mouth, then sighing with relief. “He's breathing,” she finally confirmed.
+
+“Damn, he's young,” Eric commented, looking over her shoulder at the face she had revealed, when she peeled his helmet off. “He can't be much older than you, Ray.”
+
+“He's really pretty, too. I'd think he was a girl, if it wasn't for this flat chest,” Rachel noted, patting a firm pectoral with one hand while studying his face. A girl would have to be strapped down pretty tight to fool Rachel at this range. Then again, she had barely begun to examine him. “Well, if he _is_ a girl, _she's_ the most flat chested girl I've seen over the age of twelve.”
+
+“If he's a guy, though... Damn, he must catch hell from the other guys,” Eric observed wryly.
+
+“Everyone's got problems of their own,” Rachel pointed out, focusing her attention back on her patient. Jamming her fingers down the neck of his flight suit, she was able to press down on the pilot's carotid artery. She made her next announcement with relief, “His pulse is faint, but it's there. Give me a second to check for injuries.”
+
+Eric stood by, eyes scanning the night. “Do you need any help?”
+
+“No. I'm good. The pilot's visor's cracked. He probably bashed his head on something. I don't feel any broken bones. I wish I'd brought my med kit, though. I'd like to listen to his heart and lungs before we move him,” Rachel informed her brother.
+
+“Well, make up your mind quick. The fuel cells for this thing's maneuvering thrusters don't eject, Ray. With as much damage as this bird's suffered, I doubt it'd take more than a spark to blow her sky high.”
+
+“Thank you for that encouraging thought, Eric,” Rachel growled, carefully disengaging the pilot's restraints. She eased him forward just enough to run a diagnostic hand down his back and flanks. She felt no blood or deformation indicative of skeletal trauma, and let out the rest of the breath she had been holding. “Okay, see if you can prop the canopy open and then give me a hand hauling him out,” Rachel instructed.
+
+“Got it,” Eric responded, putting words to action. The two of them hefted the pilot up out of the seat and perched him on the edge of the cockpit. “Damn. He's heavier than he looks,” Eric noted in surprise.
+
+“It's probably the suit. It looks like a second skin, but it's over a centimeter thick and very tough,” Rachel observed. She slipped past the pilot, bracing her feet carefully on unearthed boulders and protrusions from the wreck. “Don't worry, I'm sure you're strong enough to manage it,” Rachel prompted, gesturing to the pilot's head, while taking his feet in her hands. “You ready?”
+
+“I got him. Let's go,” Eric nodded. Working carefully together, the pair of them carried the unconscious pilot a safe distance from the wreck. “I'm going to take a quick look and see if there's anything important we should grab before heading back home,” he announced, once the pilot was comfortably laid out on the ground.
+
+“Like what, Eric? You were the one saying that thing's could blow up any minute... What could be worth taking a chance?” Rachel challenged, pausing as she reached for the canvas and poles they'd brought along with the rifles.
+
+“I don't know. Maybe there's a med kit, or identification, or the pilot's kit. Just, whatever the pilot might have been able to grab before bailing out if he wanted,” Eric argued, still headed back to the cockpit.
+
+“I swear, Eric! I'm getting you a leash!” Rachel threatened, before turning her attention back to her patient. Just as Eric aspired to be an officer in the Mead Navy, Rachel had high hopes of becoming a doctor. Like most of the people of Mead, she pursued most of her study online, taking advantage of the world net resources, and in the off season she went into one of the cities for lab work and hands on training. She was already a competent nurse, but she was still only seventeen. For the first time, a life was totally dependent on her skills as a healer, and she swallowed a lump in her throat as she tried not to let that fact unnerve her.
+
+Eric was back by her side before she could do more than confirm that her patient suffered from no broken bones or obvious internal injury. Together they got the pilot back to their flyers. Rachel and the pilot had the least combined weight, so Rachel had the privilege of flying him home. A quick glance at the sky established that the fighting overhead was far from over, and an explosion from the area they had just left informed them that Eric had been right about the danger of the fighter blowing up without warning.
+
+* * *
+
+Once Rachel and Eric had returned home and gotten their patient into an examination room in the compound's clinic, Rachel put in a call to the local doctor, urging him to come out to the ranch immediately while striving to give away as little as possible about their guest over an open com channel. At the same time, Eric attempted to peel the pilot out of his flight suit. Unfortunately, just as Eric managed to slip the tough, elastic garment over the pilot's hips, he received an embarrassing shock. Rachel heard him shouting for her and handed the com's handset to her confused father, who was waiting to get a satisfactory explanation of her delay in bringing Eric in, or where they had found their injured guest. Roark turned without a word and handed the handset over to his ranch foreman, and followed her as she raced back into the wing of the house that contained the clinic. When Rachel and her father entered the examination room, Eric turned to his sister in obvious chagrin.
+
+“He _is_ a she, Rachel!” the embarrassed young man declared, standing outside the curtain he'd pulled around the patient's bed.
+
+“You can't be serious!” Rachel challenged, slipping past him and brushing the curtain aside.
+
+“It's pretty damn obvious, Ray,” Eric asserted, stepping back enough to avoid seeing through the parted curtain.
+
+Rachel's eyes had fallen upon the pilot, now laying naked to mid thigh on the elevated bed. Her first thought was that her brother ought to have realized the pilot's gender while he was struggling to peel the flight suit over the pilot's hips. At the same time, she noted that the flight suit had done a remarkable job of concealing the true proportions of the body inside it. The pilot's shoulders were broader and more muscular than Rachel's but, in light of the tapering rib cage, narrow waist and wide pelvis, there could be no doubt of the pilot's true gender.
+
+“You got this far before noticing?” Rachel criticized, turning to glare at her brother.
+
+“I was too busy wrestling with that damn flight suit!” Eric protested, the faint blush he'd had when Rachel entered deepening. “I only looked up to make sure I didn't hurt him when I felt the plumbing connections come free.”
+
+“Yeah, only she's not a him. If she had been, no doubt it would have hurt to... never mind. I'll finish this. You can wait for the Doc and explain what happened,” Rachel instructed, grabbing the gown that Eric had intended to dress the pilot in off the chair next to the examination bed and laying it over the pilot's exposed front.
+
+“And when were the two of you going to explain what's going on to me?” Roark interrupted, catching Eric as he turned to follow his sister's instructions.
+
+“I'll explain it to you while we wait for the Doc, Dad,” Eric promised, tossing his head toward the door suggestively.
+
+Once the two men were out of the room, and Rachel had managed to finish peeling off the flight suit, Rachel gave her patient a more thorough examination. Like Eric had said, the pilot appeared to be no older than Rachel herself. Obviously the military life was more rigorous than Rachel's life on the ranch, given the pilot's overall muscle tone. From her initial glance, the pilot's external genitalia appeared normal and healthy, but a careful palpitation of the stranger's chest revealed no breast tissue. From the waist up, Rachel would still believe the pilot was a boy.
+
+“Why do I suspect that there's more to your story than I'm seeing?” Rachel quietly asked her unconscious patient. The clinic had most of the equipment necessary to diagnose virtually any human ailment. It was common on ranches and plantations on the extreme edges of the colony proper to have their own complete medical facilities, and have doctors and specialists flown out to see the patients on site, rather than try to transport an injured or ill person to the doctors in the nearest city.
+
+Rachel concluded her examination and spent the time waiting for their family doctor's arrival nursing her suspicions. The doctor seemed equally disturbed after examining the pilot, but obviously for an educated reason. After completing a series of tests and scans, the doctor finally broached the subject with Rachel.
+
+“I can see you're troubled by the patient's developmental anomalies,” Doctor Cross said, after clearing his throat and turning to face Rachel over the pilot.
+
+“Well, I'm not a doctor, so I only did a cursory examination...” Rachel began, looking down at the pilot.
+
+“Yes. Well, I am sure that if you had done a pelvic exam, you would have gotten the surprise of your life!” the doctor laughed.
+
+“Then... she's not female after all?” Rachel put her suspicion into words.
+
+“I'm not surprised that you guessed. An examination of the chest is enough to determine that the patient never experienced breast development, or that typical methods of mastectomy and chest reconstruction were not performed, as evidenced by the lack of scar tissue on the surface or underneath. A pelvic examination would further reveal that this patient has no uterus,” Cross added.
+
+“From the look of her... ah... vulva, the patient does not appear to have undergone genital reconstruction, either,” Rachel ventured, receiving a nod from the doctor. “Which, taken with the evidence from above suggests that the patient developed normally this way. She's... well, the proportions are more feminine than masculine, so... 'she' was genetically engineered, wasn't she?”
+
+“That is correct, Rachel. This comes as a surprise to you, but from the first look, I knew your brother was telling me the truth about where your patient came from. This pilot, you see, is a drone. Word got out of the AEGIS about this several years ago. There had always been rumors that the AEGIS supplemented it's workforce with custom engineered human beings, and in particular, manning the ships of its navy with creatures like these,” the doctor confided somewhat bitterly.
+
+“I don't understand. Why would they want to do that?” Rachel asked in confusion. “I mean, there's got to be billions of people who would volunteer just to get into space.” Rachel looked back down at the pilot, a scowl forming. “Even more important, why design them to be sexless drones?”
+
+The doctor frowned and shrugged. “To my knowledge, the AEGIS has never published a statement confirming their existence, to say nothing of their rational for how they are designed. However, if the intent was to make their pilot's sexless, then nature outwitted them,” Cross declared with a mischievous glint in his eye.
+
+“Huh?” Rachel quirked an eyebrow.
+
+“Come over here and look at the MRI of our patient's abdomen,” Cross invited, ushering his unofficial protégé over to the monitors. Using a probe, he directed her attention to the image on the screen and explained what she was seeing. “Now, if you recall your embryonic anatomy, you know that all the structures for male or female genitalia are present prior to specialization. Here, in our patient, you can see development that is inconsistent with that of a male or female, but the structures have obviously undergone a degree of specialized development. As you know, female development is the default, so you can see where that is reflected in the skeletal proportions and the external genitalia, but internally things are quite different.
+
+“Here you have what appears to be a vaginal canal, but look, here,” he directed, waiting, watching her expression to see if she realized what she was seeing.
+
+“You said, she doesn't have a uterus, but... what is that?” Rachel pointed to the area in question.
+
+“That, my dear girl, is what the patient ended up with instead of a uterus. All of this tissue here is muscular, but it also contains these striations of what appears to be erectile tissue, and here, this would appear to be endometrial tissue on these inner surfaces,” the doctor elaborated. “Finally, here to either side, what appear to be reproductive glands. Not exactly ovaries, but not testicles either. It's rather like both rolled up together. The medical term for this is gynandromorphism, but this is not the typical case. Gynandromorphism usually refers to a natural birth defect, whereas here, I'd be inclined to suggest that the genetic engineers responsible for creating our patient have actually created a different—or at least multipurpose—sex.”
+
+“What do you mean?” Rachel asked, still somewhat perplexed.
+
+“I hardly know myself. The preliminary results are simply too vague. My initial diagnosis is that someone wanted to create people with the best traits of both males and females, and our patient here is a product of that attempt,” Cross confessed. Gathering his notes and electronic personal assistant, he led Rachel back over to the bed. “I'll stick around for a while, finish up these tests, and see if I can learn some more about our new friend here.”
+
+“I'm sure that will be fine. Do you have any idea when she'll come out of her coma?” Rachel asked.
+
+“Well, there's never any guarantee's with a coma. She might wake up in an hour, a day, or maybe not for years. Maybe never. Your initial diagnosis was correct, in that she had a concussion and possible brain hemorrhage. The latter was not so bad, but because her genetic modifications included cyber-brain augmentation and neural interfaces, even minor brain damage could have catastrophic consequences. We'll just have to wait and see,” the doctor declared, settling into the chair next to the bed.
+
+Rachel stood there for a while before shaking her head. “I hope she recovers. But I can't help wonder if she'll want to. I mean, it can't be easy to be so different. Not a man, not a woman, but still so human...”
+
+“Yes, well, I doubt it ever bothered her. I am sure there were lots of people like her where she came from. I would be more concerned about how all of them feel about being called drones, or being born into military servitude, if indeed any of them are born at all,” Cross speculated without looking up from his notes.
+
+“I won't call her a drone,” Rachel protested, finding the term instinctively repugnant. Her eyes lit up in inspiration, as she finished her thought, “She's more like an angel. A fallen angel.”
+
+* * *
+
+The battle over Mead raged through the night and well into the next day. Rachel continued to help the doctor watch over the injured pilot, listening to the reports being broadcast over the planetary nets. Once the fighting settled into orbital range of the planet, the mystery ship had been identified as some kind of carrier built on a super-dreadnought scale. The massive ship had assumed the brunt of the planet's defense, but by itself proved unable to prevent the other ships of the AEGIS Navy from landing ground assault forces and air support to threaten the planetary command centers and major city centers. These were met by conventional forces struggling to defend their homeland from invasion using inferior arms and armor. By morning, reports had come in announcing the capture of three major cities, and nothing the army, navy or marines could do seemed likely to prevent the capture of the planet's capital and strategic command center. It was all the surviving MN ships could do, with the help of the 'stolen' carrier, to prevent the AN ships from providing orbital support for the invading forces.
+
+The final blow came shortly after the fall of the capital that afternoon, when the carrier at the heart of the dispute suddenly broke orbit and headed out system, leaving both sides in the conflict confounded. Eric argued that the ship was not abandoning them, but trying to lure the enemy away from the planet or even out of the system entirely, but as their father, Roark, observed, it could not undo what had been already done.
+
+The surviving ships of the MN were forced to surrender, once the local ground forces had been defeated. Kinetic strikes against the entrenched invaders would have only caused the deaths of their own citizens, and they lacked the capacity to land a force strong enough to challenge the AEGIS marines even without their navy's air support.
+
+Insisting that the government of Mead was responsible for the theft of the ship, the AN had demanded it's immediate return and surrender. When the government and military responded that they had been oblivious to the initial theft, and innocent of any part in a conspiracy to acquire or keep the vessel, the AEGIS forces declared that they would continue their occupation of the system until a guilty party or parties were turned over to them. Their obvious suspicion of government or military complicity was underscored by the fact that the stolen vessel had come to the defense of the Mead Navy immediately after the lighter force was engaged by the AN. The Mead Admiralty insisted that they had been just as surprised by the intervention, asserting that they had engaged the AEGIS Navy purely in self defense. More to the point, the captain of the ship in question, and his crew, had all been in AEGIS uniform during all their communications with the estranged carrier during the course of the battle.
+
+This protest had little effect, and a quarantine went into effect that caused all traffic in the system and on the planet to be locked down. All movement had to be declared and subjected to a scrutinizing search and escort by armed forces of the AEGIS Navy or Marines. As Roark Montgomery had predicted, the occupation of Mead signaled the end of their homeworld's independence. Over the next few days, the AEGIS marines would secure their foothold on the planet, preparing the way for the politicians and bureaucrats of the AEGIS to come in and begin installing a new government, one more amenable to the empire's wishes.
+
+“I think we've had enough of the news, for now,” Catherine Montgomery announced, coming into the clinic to check up on her daughter. “You haven't slept since yesterday, have you, Rachel?”
+
+“Who can sleep with everything that's going on?” Rachel demanded, looking up from the chair beside the pilot's bed.
+
+“Well, those of us who aren't glued to the radio, for one thing. There's nothing any of us here can do about this invasion. Sitting up dwelling on it certainly isn't going to help,” Catherine asserted with a motherly manner. Gliding closer and taking a look at the person in the bed, she added, “If you're concerned for our guest, I promise you I'll help the doctor keep an eye on her.”
+
+Rachel looked back down at her patient and tried to focus her weary mind on a suitable protest. When she literally nodded off before coming up with something, she decided that her mother was right. She needed to get some rest. “Okay, Mom. You win.”
+
+“That's a good girl. See if you can get your brother to turn in too. He's been hovering in front of the big screen almost as obsessively as you've been guarding your new friend here,” Catherine asserted, with a wry smile.
+
+Rachel nodded, and rose from her chair. As she did, her foot became tangled in the pilot's flight suit, which had been kicked under the bed as soon as it fell to the floor so many, long hours ago. “I'll do my best,” Rachel promised her mother, bending over to pick up the discarded suit. Turning it over in her hands, mentally trying to sort out some way to fold it before putting it away, she came across the unit patch on the suit's shoulder.
+
+Frowning, she tried to remember what her brother had said, when he dropped in on her one of the many times he had updated her on the course of the invasion. He had named the ships for her, indifferent to her indifference, when the news feeds had provided their identifications. For the first time, she was curious about the pilot's origins, but the information simply had not stuck in her head. “Hey, Mom? Did Eric tell you the name of the AEGIS carrier?”
+
+Catherine, having just settled into the chair Rachel had abandoned, looked up and shrugged, “I am sure he did, but Heaven help me, I don't think I remember. Oh, I believe it was _Michael_, I remember him saying that the carriers were named after archangels.”
+
+Rachel's eyes widened, looking at the patch that clearly said, _ANS Artemis._ “I see. I'll be right back,” she promised, racing out of the clinic and down the hall into the residential section of the house. It did not take her long to find her brother and shock him out of his lethargy by tossing the flight suit at him and declaring, “I think we might have a problem. There were only two carriers in the battle, right?”
+
+Eric caught and fumbled with the suit, having forgotten it's deceptive mass. The question, and her tone of voice, instantly captured his attention. He was nodding and examining the flight suit in anticipation of what he would find, as he replied, “Of course. The _Michael_ and the _Artemis_.” He had hardly uttered the second name when he came across the unit patch. He looked down at it for a moment before he met Rachel's eyes. “Our 'friend' comes from the stolen ship.”
+
+Rachel nodded, adding, “And, based on what the Doc said, she could only have come from the AEGIS, since they're the ones who made her. Plus, she was in uniform, which confirms our government's claim that AEGIS personnel were in command of the ship the whole time.”
+
+“So, that sort of rules out the idea that any of our people could have stolen it,” Eric quickly concluded, the fog of exhaustion blowing quickly out of his mind. “Do you know what this means?” His question was rhetorical, as he did not give her a chance to reply before he voiced his own speculation, “For one, it's obvious the ship was taken by it's own crew, and further, that the AEGIS does not know. They assumed that we stole it, but that assumption began when they tracked the ship here. But, the question is, why did the _Artemis_ come here? Is it possible that they wanted to defect?”
+
+Rachel's head spun as she took in her brother's speculation. “From what the Doc and I discovered, examining the pilot, I can see that happening, but the only one who can tell us the answer is in a coma. Which brings me to the problem I was talking about. If she was from the ship responsible for this, then the AEGIS would definitely want to get their hands on her, right?”
+
+Eric paused for only a second before nodding.
+
+“We can't let that happen, Eric. At least, we can let them take her until we know if that's what she wants. I mean, if she and her crew mates were really fleeing the AEGIS, I totally support that decision,” Rachel declared.
+
+“Well, there's no question that someone is going to come looking for her. That crash site has to be visible to satellite. At the very least, the local fighter base ought to have sent out a rescue and retrieval team, and they'll come here to see if we know anything,” Eric informed his sister.
+
+“So what do we do?” Rachel asked anxiously.
+
+Eric considered the state the fighter must have been in following the final explosions, as well as the logical paths of investigation a search and recovery team would follow. “I'll think about it, Ray. For now, just warn everyone to bite their tongue and forget anything they know about our new friend, and let us know if anyone comes asking,” Eric directed.
+
+Rachel nodded and set out to speak to her parents, the doctor and the foreman.
+
+* * *
+
+If Rachel had obeyed her mother and gone straight to bed, Montgomery Ranch would have been caught flat-footed when the AEGIS SAR team showed up at their gates. As it was, there had barely been enough time to concoct a plan and put it into action. She was still in the clinic when the AEGIS Marine Lieutenant in charge of the team demanded entrance to speak with Doc Cross. The doctor was applying new dressings to the second degree burns he had just inflicted on Rachel's hands and arms. With a wince, she looked up at the intrusion, as the soldier stopped just inside the door.
+
+Clearing his throat, he announced, “Doctor Raymond Cross, I presume?”
+
+Cross finished what he was doing and rose from his stool, leaving Rachel perched on the edge of the recently vacated bed. “That is correct. And you are?”
+
+“Lieutenant Nine-Victor-Gamma, Marine Search and Rescue, AEGIS Armed Forces,” the soldier responded crisply. He—at least by appearances the soldier was a man—glanced at Rachel before elaborating, “According to planetary traffic control, you reported to this facility for a medical emergency at 2335 hours last night. Is this the patient you came to see?”
+
+Cross looked over at Rachel and nodded. “Rachel Montgomery sustained second degree burns on her hands and arms. She and her brother observed and investigated a crash west of here during the battle last night,” he explained, carefully making no direct connection between the two statements, allowing the soldier to make the necessary assumptions.
+
+“I see.” The Lieutenant considered that for a moment before turning to Rachel. “If the doctor is finished changing your dressings, may I please speak to you and your brother regarding what you discovered at the crash site?”
+
+Rachel resisted the urge to rub her sore arms, and nodded. “Sure. Eric's in the house. I'll go get him.”
+
+The soldier nodded and waited for her to stand, and once she had proceeded past him, followed her into the house proper. Rachel tried not to cringe at the presence shadowing her, and concentrated on walking as casually as possible to her brother's bed room. Stopping outside the door, she knocked.
+
+A few moments later, the door cracked open and her bleary-eyed brother peered out at her, wearing nothing more than his briefs and an impressively tousled head of hair. “What is it, Ray? You know I didn't get much sleep last night,” he complained with a convincingly suppressed yawn.
+
+“We have some guests from the AEGIS that want to talk to us about the crash,” she explained, for the Lieutenant's benefit.
+
+Eric did an impressive job of seeming to rouse himself to full alertness. “Um. Yeah. Lemme throw something on and I'll meet you downstairs in the living room,” he suggested, waiting for Rachel and the Lieutenant to nod in agreement.
+
+Before too long, Eric joined Rachel, the Lieutenant, and a handful of his unit in the family room. While remaining polite and official, the soldier interrogated the pair, who reconstructed the events of the previous evening leading up to their visit to the crash site. From that point, the story drifted ever so slightly from the facts.
+
+“When we arrived at the crash scene, everything was on fire,” Eric picked up, from Rachel's description of their flight and Eric's suggestion that they investigate for survivors. “From the pattern of the blaze, I assumed that the pilot had attempted to dump his fuel and ordinance prior to impact, but it was not enough I guess. Shortly after the crash, the tanks for the maneuvering thrusters blew. At that point it became impossible to approach the craft without getting severely burned. Rachel's training to be a doctor, so you can understand her inclination to take a chance on rescuing the pilot, but...” he shrugged, watching the soldiers nod in understanding.
+
+Rachel bit her lip, hoping they would not challenge the story. She quickly sketched out the rest of the details, concerning their return home, placing a call to the doctor, and sitting up all night listening to the news. Neither of them lied, they just omitted the most crucial details and filled in the gaps with leading comments.
+
+“I see. I appreciate your cooperation. I had hoped, given the call for medical assistance, that you had managed to recover the pilot. As it stands, your account is consistent with our own assessment of the crash site. The pilot was evidently not able to egress the vehicle prior to the combustion of its internal fuel cells, and with the resultant explosion and fire, no human remains could be identified,” the Lieutenant told them coolly, but graciously. He stood up and extended his hand to Eric, “I wish to express the thanks of AEGIS Navy and Marines for your efforts on behalf of one of our pilots. The loss is tragic, but that's the nature of war.”
+
+Rachel was forced to bury the resentment that comment roused in her and look up to meet the Lieutenant's eyes when his hand passed from Eric to her. She allowed him to clasp her hand and shake it, wincing at the pressure on her self-inflicted wound.
+
+“My apologies, Ma'am,” he released her hand and turned to address her father, who had stood with his ranch foreman at the door while his son and daughter had been interrogated. “My crew and I will remain on site to conclude our investigation of the crash, but for the most part we will not be on your property. I will contact to you or your foreman if we require any other assistance.”
+
+“That will be fine, I am sure,” Roark responded, shaking hands in turn, and escorting the soldiers toward the front door.
+
+Once the soldiers had left the premises, Rachel turned to look at her brother, letting out a heavy sigh of relief. “Well, that could have gone much worse,” she confessed.
+
+“That goes without saying,” Eric agreed, letting out a breath of his own. He was just about to say more when a new voice intruded.
+
+“You lied,” the unexpected, soft soprano accused.
+
+Rachel and Eric jumped and turned to look at the intruder. Standing in the entrance to the back hall, with a sheet draped around her, the pilot stared at the two of them in obvious mystification.
+
+“You're awake!” Rachel blurted in surprise.
+
+“What do you mean, we lied?” Eric demanded, shrugging off the shock and grasping the implications of the pilot's accusation.
+
+“Why did you lead those men to believe I was dead?” the pilot inquired, entering the room cautiously.
+
+“How long have you been aware of what's been going on?” Eric challenged, putting out a hand to stop Rachel from approaching her former patient.
+
+“In a sense, for much longer than I was aware of,” the pilot admitted.
+
+“Wait, are you saying you were not in a coma?” Rachel asked, in slight confusion.
+
+“Not precisely. I was, I suppose, but my cyber-brain continued to register and record my sensory input. I know what happened while I was out, and I know what you've learned about me...” she admitted, trailing off as Rachel opened her mouth to interject something.
+
+“Not quite everything, actually,” Rachel guessed. “None of us noticed it at first, but the patch on your flight suit warned us that you came from the _Artemis_. Which, we all know, was recently exchanging fire with the rest of the AEGIS ships.”
+
+The pilot's eyes widened, and she looked down.
+
+“Is it true?” Rachel asked timidly.
+
+“Is what true?” The pilot tensed, seeming more on guard.
+
+“Were all of you fleeing from the AEGIS?”
+
+The pilot stared at her in shock, “How could you...? No, it's obvious you figured it out, but... why would you help me?”
+
+Rachel and Eric exchanged nods. Eric spoke for them, “How could we not?”
+
+* * *
+
+_Author's Note: I wrote this story in 2005 for submission to Analog, but I bungled the submission and forgot to include a SAS postcard to confirm the submission and I never heard back from them. Before I could resubmit it, I looked through the story again and decided it was not ready for publication. There was never enough time to revise it, however. My fanfiction readers are familiar with the details; my life has been a wild rollercoaster ride these past few years and my creative writing has suffered for it._
+
+_I have not given up, however. I decided it would be better to post this here and get some writing feedback, even though it means I probably cannot submit this story to a regular publisher as a result of publishing it here. I have a million ideas, and perhaps a different version, or different story in this universe, can one day see print. Who knows? In any case, I would like to hear any comments or criticism you may have. Tell me what this story needs. I deeply appreciate it!_
+
+_David B. Roberson, writing as Alexandrea V. Morgan_ _Edit: I've moved this from my blog to a dedicated page._

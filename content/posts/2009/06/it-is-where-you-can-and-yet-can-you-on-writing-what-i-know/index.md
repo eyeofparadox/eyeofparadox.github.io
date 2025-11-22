@@ -1,0 +1,18 @@
+---
+title: "It is Where You Can, and Yet... CAN You? On Writing What I Know."
+date: 2009-06-26
+categories: 
+  - "editorial"
+  - "epiphanies"
+  - "gender"
+  - "identity"
+  - "personal-musings"
+  - "transgender"
+  - "writing"
+---
+
+I may have commented on it in passing, and it is something I certainly never miss, but my art and writing have always brought out the real me. In a sense, that is appropriate enough; isn't it a common recommendation that writers draw from their own experiences? I often feel that my escape into fantasy or science fiction has been good for my sanity, but bad for my hopes of a writing career. I could be wrong. I see enough gender bending in books, manga and film. I find it interesting that most cases involve a boy turned into a girl against his will. Interestingly enough, the first time I picked up an issue of Ranma 1/2, I put it back when I discovered that Ranma considered his ability to become a girl a curse. I did not think I could stomach reading about a guy hated having what I so desperately longed for. Months later, I gave Ranma 1/2 a second chance and eventually came to like him and appreciate what he was going through. I became a fan, read all the manga, watched as much of the anime as I could stand (if you've tried, you know why I say that), and even wrote over a million words of fan fiction. I'm still trying to complete volume five; it's hard to give it my attention when I am struggling to hold myself together and it's writing that doesn't pay.
+
+It is not a hugely popular story; people either love it or hate it, it seems. I mostly only hear from the people begging for me to write more, and it bothers me that I usually have no time or energy after coping with work, school and stress. I will say this, it was nice having a set of characters and situations that were so well suited to the topics I always wanted to explore but was always resistant to exploring in my own writing. I wanted to write, and deep down I wanted to share the experiences and insights I've had in my life, but I had a hard time with the fact that writing myself into fantasy or science fiction, where the problems I face can be resolved so the character can move on to other things, I was engaging in a degree of self-destructive wish fulfillment. I threw a lot of stories aside because I kept writing myself in and then writing myself into a corner. I tried to get around it a couple of times by jumping past that part, as in The Eve of Paradox, but then I lost the opportunity to show the reader what made the character who she was. I think the only way to break this pattern is to accept that it's the story I have to write, and hope that it's a story people will read, love and beg for more--because there is a lot more.
+
+So, there it is. I can say that I chose to write fantasy and science fiction because that's where you can present a problem like I've lived with and get past it. It is a story I'd rather live than write, and I know that has been part of my frustration. I know that there is the option of transitioning, to get close to where I belong, but there will always be a part of me that knows that what I really want would be like magic, a miracle, a true transformation. Even then, there would be part of me hurting for the childhood and life experiences I missed. I have all my dreams, and the problem there is that in all my dreams I was alone. No one in here but me. Perhaps by sharing the dreams and stories I've kept silent all these years, it won't seem like that as much. I dunno, but it's what I've got. Why shouldn't I make the most of them?

@@ -1,0 +1,33 @@
+---
+title: "Bridging the Gap: A DegreeStory"
+date: 2016-08-25
+categories: 
+  - "article"
+  - "degreestory"
+  - "editorial"
+  - "education"
+---
+
+* * *
+
+**Original publication: November 6, 2013**
+
+**Re: University of Phoenix Online**
+
+**Associate of Arts in Business**
+
+**Bachelor of Science in Information Technology for Visual Communications**
+
+* * *
+
+I am the fifth of seven children, and was an advanced placement student in Art, English and Drama in High School. I have always had a knack for art, an urge to write and a flair for dramatics, so I always expected to end up as an artist, author or actor. I even got an early taste of college the summer after my freshman year in High School, on a 3/4 summer scholarship to the Academy of Art in San Francisco. That experience taught me that talent has to be backed up by hard work and sacrifice. I was not a perfect 4.0 student, but I was the first in the family to go off to college. I longed to go to a real art school, and was even offered a modest scholarship to the Savannah College of Art and Design--but my parents could really only afford to send me to a State University. I learned that Humboldt State had a good Drama program and--confident my own talent would carry me through any Art program at the state level--I chose HSU.
+
+So, I went to HSU to study art and drama in a place full of natural beauty. I was eager to learn new things, and devote myself to creative work. I was prepared to spend some time dealing with the general requirements, and of course, to find work to support myself. I had held part time jobs all through high school and kept up with classes while also involved in after school sports and productions, so I believed I was ready for the challenges I faced in college. I still think HSU is a great school, and Arcata, CA, a great place to live; but in a small town with a surplus of students, it turned out to be a hard place to find a decent job. I made a healthy number of good friends, had my fair share of fun little outings and new experiences, and picked up the foundations of my computer skills on the side. So, there was no lack of good parts to my college experience. I just could not find work that was compatible with school, and was forced to withdraw.
+
+I would have benefited immensely from some good advice--and the wisdom to listen to it--at that time. I can look back now and tell myself I should have been patient and attended a local junior college to earn my AA first, then gone to HSU to pursue my majors. The truth is, my parents, teachers and counselors all suggested that very thing. Of course, back then the closest thing to online classes was correspondence courses, but if online classes had been an option that would probably have been the best way to start. When I finally got back into college that was the path I took. I got my AA in Business and a BSIT in Visual Communications through the University of Phoenix Online. The benefit of being able to study on my own time, at my own pace, more than compensated for diminished classroom experience. I like to read, and have always had a knack for learning on my own, so online study was well suited to my learning style.
+
+I did have to give up on my acting aspirations, however. To get an acting degree, I would have had to listen to my advisers, gotten my AA at a junior college, and then gone to good school for actors. Acting requires presence, in every sense. Art and writing are more forgiving--in truth, I learned my real artistic skills on my own, doing my own research and experimentation. The real reason for the degrees I chose to get was to help me apply my skills to the current job market. Most of the people in my Visual Communications class were not particularly artistic. A Visual Communications degree is actually a science degree, not an art degree. I chose it because it falls right in the gap between writing, graphic design and technical services. I found my way into IT consulting and support before returning to school, and people would ask me to provide content or designs for their web sites.
+
+So, I basically picked a degree suited to the work I found, in order to do that work at a professional level. That was why I started with an associate's degree in business. An AA in Business provides a good foundation for a professional career in anything. If I were to do one thing different, I would have sought out a bachelor’s program ideal for the job I _wanted_ to be doing. It is helpful, though, to have a degree suited for the type of work I can currently get. I am able to employ my creative skills in a practical and profitable way. The down side is that it is often not the kind of creative work I find most engaging; it’s not work that fulfills my creative drive. It is frustrating when the cost of make a living from my artistic skills is not making art. On the other hand, artistic skills need to be used to remain sharp and keep growing, so it is still beneficial to do the work. The same consideration applies to a college degree. Whatever it is that moves and inspires you will always move and inspire you. The coursework for your degree will show--and give--you the things you did not know you need to succeed in your career.
+
+The big question--and the real test for the value of my degree—is: Has it really helped my career? That's something I still wonder about sometimes. On one hand, it helped me get a position as the Lead Graphics/Web/UI Designer with the I.T. Mercenaries, an I.T. consulting group in the Bay Area. I've been with the I.T. Mercenaries for 3 years, and make good money when we have a client or project requiring my skills. Unfortunately, we do not have such projects often enough to keep me busy full time. I also provide services on Elance, and my degrees play a part in every job bid. Not as much as underbidding, but it matters to the clients I’ve had. More important, the knowledge and experience I picked up with my degree come into play in numerous ways, from project planning and management, to project completion. In honesty, however, the key parts of my work depend most heavily on skills I developed on my own. To make the most of a Visual Communications degree, it's important to have skills and experience with programs like Photoshop, Illustrator and Visio, plus HTML, CSS, JavaScript (and libraries like jQuery) or PHP. Dreamweaver might be a good tool to know, but the ability to hand code and script is essential for success. It's really a position for someone with a good balance of creative and technical aptitude. It's a position for people who can bridge the gap. Most people lean one way or the other, so there are some great opportunities for the few who can strike that balance.
