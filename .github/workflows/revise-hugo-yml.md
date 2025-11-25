@@ -118,7 +118,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.152.2'   # pin to the version you tested locally
-          extended: true            # 👈 ensures Hugo Extended is used
+          extended: true            # <<< ensures Hugo Extended is used
 
       # Step 3: Build site
       - name: Build
@@ -132,7 +132,9 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true   # ensures gh-pages is wiped before publishing
-          user_name: github-actions[bot]
-          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          git_config: |
+            user.name=github-actions[bot]
+            user.email=41898282+github-actions[bot]@users.noreply.github.com
+
 
 ```
