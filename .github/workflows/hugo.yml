@@ -14,17 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repo
+      # Step 1: Checkout repo (with submodules)
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: true   # ensures theme submodule is pulled
 
-      # Step 2: Setup Hugo
+      # Step 2: Setup Hugo (force Extended)
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.152.2'   # pin to the version you tested locally
+          extended: true            # 👈 ensures Hugo Extended is used
 
       # Step 3: Build site
       - name: Build
@@ -38,5 +39,8 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true   # ensures gh-pages is wiped before publishing
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
