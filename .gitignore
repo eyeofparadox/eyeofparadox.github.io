@@ -33,3 +33,5 @@ yarn-error.log
 
 # MacOS metadata
 .DS_Store
+/themes
+/themes
