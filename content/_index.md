@@ -2,7 +2,7 @@
 title: "Eye of Paradox"
 description: "an echo of eyeofparadox.com for better integration with github repos"
 keywords: ["writing", "essays", "fiction", "archive", "blog"]
-image: "featured-index.jpeg"
+image: "../static/eyeofparadox.png"
 ---
 [![eyeofparadox](../content/about/eyeofparadox/images/eyeofparadox.github.io_social.png)](../content/about/eyeofparadox/images/eyeofparadox.github.io_social.png)
 # eyeofparadox.com → eyeofparadox.github.io
@@ -129,4 +129,4 @@ I carried that philosophy to other sites I created, including GitHub. Originally
 | [— Born](../content/pages/the-price-of-dreams/born/)                                                                                                                       | 2025-10-06  - 6:06 pm  |
 |                                                                                                                                                                            |                        |
 
-[![eyeofparadox](eyeofparadox.png)
+![eyeofparadox](../static/eyeofparadox.png)
