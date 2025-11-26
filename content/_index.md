@@ -129,3 +129,4 @@ I carried that philosophy to other sites I created, including GitHub. Originally
 | [— Born](../content/pages/the-price-of-dreams/born/)                                                                                                                       | 2025-10-06  - 6:06 pm  |
 |                                                                                                                                                                            |                        |
 
+[![eyeofparadox](eyeofparadox.png)
