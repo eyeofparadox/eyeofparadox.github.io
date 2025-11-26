@@ -16,3 +16,115 @@ I started by creating [**eyeofparadox**](https://eyeofparadox.com) on WordPress,
 The fact that it was open to the public did not escape me, but I'm the kind of person who feels, if an idea is worth putting down in writing, then it might be worth reading for some people. Most of the time, that works just fine. 
 
 I carried that philosophy to other sites I created, including GitHub. Originally, I used GitHub for more technical things, but the benefits of using it to manage my writing archives were clear. I would also be able to take advantage of Copilot to help with indexing and cross-referencing decades worth of material more efficiently. I intend to get the static pages up on [eyeofparadox.github.io](https://eyeofparadox.github.io/) as soon as I can get Hugo to build them properly. I might need to make some manual adjustments for that.
+
+---
+
+| **eyeofparadox - posts**                                                                                                                                         |                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [WordPress → GitHub Pages Notes](/posts/2025/11/18/wordpress-%e2%86%92-github-pages-notes/)                                                                      | 2025-11-18  - 6:02 pm  |
+| [Physics in a Distributed, Process Driven, Information-Based Universe](/posts/2025/11/17/physics-in-a-distributed-process-driven-information-based-universe/)    | 2025-11-17  - 8:15 pm  |
+| [Proposed Doctrine of „ Notation](/posts/2025/05/25/proposed-doctrine-of-duo-comma-notation/)                                                                    | 2025-05-25  - 5:56 pm  |
+| [All or Nothing; Division by Zero](/posts/2022/10/10/all-or-nothing-division-by-zero/)                                                                           | 2022-10-10  - 4:09 am  |
+| [Avonlea & Kzahn – Tern Vesper Lake](/posts/2019/06/24/avonlea-kzahn-tern-vesper-lake/)                                                                          | 2019-06-24  - 5:35 am  |
+| [Avonlea – Highlands – Island Dawn](/posts/2019/06/18/eye-of-paradox-annex-artstation-com-avonlea-highlands-island/)                                             | 2019-06-18  - 9:38 pm  |
+| [A Goddess & A Girl [SPOILER]](/posts/2019/06/05/a-goddess-a-girl-spoiler/)                                                                                      | 2019-06-05  - 12:52 am |
+| [Aeirn](/posts/2018/10/13/background-notes-aeirn/)                                                                                                               | 2018-10-13  - 8:42 am  |
+| [The Rift](/posts/2018/10/04/the-rift/)                                                                                                                          | 2018-10-04  - 7:40 pm  |
+| [Reality Check](/posts/2018/09/26/reality-check/)                                                                                                                | 2018-09-26  - 4:27 am  |
+| [The Journey Begins](/posts/2018/09/16/the-journey-begins/)                                                                                                      | 2018-09-16  - 4:17 am  |
+| [Examples of the 4th Dimension](/posts/2018/09/15/examples-of-the-4th-dimension/)                                                                                | 2018-09-15  - 7:26 pm  |
+| [Musings On Physics & Metaphysics](/posts/2018/09/15/musings-on-physics-metaphysics/)                                                                            | 2018-09-15  - 5:11 pm  |
+| [Beyond My Grasp](/posts/2016/08/24/beyond-my-grasp/)                                                                                                            | 2016-08-24  - 6:56 pm  |
+| [Poetry and Figurative Language Paper](/posts/2016/08/24/poetry-and-figurative-language-paper/)                                                                  | 2016-08-24  - 4:44 pm  |
+| [Fair and Sound: DegreeStory Replies](/posts/2016/08/24/fair-and-sound-degreestory-replies/)                                                                     | 2016-08-24  - 4:13 pm  |
+| [Bridging the Gap: A DegreeStory](/posts/2016/08/24/bridging-the-gap-a-degreestory/)                                                                             | 2016-08-24  - 4:05 pm  |
+| [Taking Part in the Dance with our Eyes Closed](/posts/2016/08/20/taking-part-in-the-dance-with-our-eyes-closed/)                                                | 2016-08-20  - 2:46 pm  |
+| [Patience and Perseverance](/posts/2016/08/17/patience-and-perseverance/)                                                                                        | 2016-08-17  - 7:04 pm  |
+| [A Touch of Fear](/posts/2016/08/17/a-touch-of-fear-2/)                                                                                                          | 2016-08-17  - 6:16 pm  |
+| [Is This It?](/posts/2009/09/27/is-this-it/)                                                                                                                     | 2009/09/27  - 2:36 am  |
+| [Is there really such a thing as the present?](/posts/2007/07/18/is-there-really-such-a-thing-as-the-present/)                                                   | 2007/07/18  - 9:35 am  |
+| [Impulse](/posts/2009/07/25/impulse/)                                                                                                                            | 2009/07/25  - 6:51 am  |
+| [I’m not dead yet…](/posts/2008/02/21/im-not-dead-yet/)                                                                                                          | 2008/02/21  - 4:01 am  |
+| [Hidden in Plain Sight](/posts/2009/07/07/hidden-in-plain-sight/)                                                                                                | 2009/07/07  - 8:57 am  |
+| [Helium.com Articles](/posts/2007/07/18/heliumcom-articles/)                                                                                                     | 2007/07/18  - 7:22 am  |
+| [Gravity in a Distributed, Process Driven, Information-Based Universe](/posts/2008/09/17/gravity-in-a-distributed-process-driven-information-based-universe/)    | 2008/09/17  - 12:04 am |
+| [GID?](/posts/2007/07/20/gid/)                                                                                                                                   | 2007/07/20  - 7:23 am  |
+| [Fly By – Asteroids](/posts/2008/09/30/fly-by-asteroids/)                                                                                                        | 2008/09/30  - 9:55 am  |
+| [Fair and Sound: DegreeStory Replies](/posts/2016/08/24/fair-and-sound-degreestory-replies/)                                                                     | 2016/08/24  - 4:13 pm  |
+| [Explaining the Different Dimensions](/posts/2007/07/18/explaining-the-different-dimensions/)                                                                    | 2007/07/18  - 9:37 am  |
+| [Exercise in Imagination](/posts/2009/07/10/exercise-in-imagination/)                                                                                            | 2009/07/10  - 10:59 pm |
+| [Examples of the 4th Dimension](/posts/2018/09/15/examples-of-the-4th-dimension/)                                                                                | 2018/09/15  - 7:26 pm  |
+| [Does it ever get better?](/posts/2016/04/05/does-it-ever-get-better/)                                                                                           | 2016/04/05  - 10:18 pm |
+| [Do current theories on Black Holes address Forces other than Gravity?](/posts/2014/01/20/do-current-theories-on-black-holes-address-forces-other-than-gravity/) | 2014/01/20  - 4:01 pm  |
+| [Divide by Zero](/posts/2008/09/17/divide-by-zero/)                                                                                                              | 2008/09/17  - 6:34 pm  |
+| [Conundrum](/posts/2008/05/11/conundrum/)                                                                                                                        | 2008/05/11  - 4:04 pm  |
+| [Bridging the Gap: A DegreeStory](/posts/2016/08/24/bridging-the-gap-a-degreestory/)                                                                             | 2016/08/24  - 4:05 pm  |
+| [Blue Horizon](/posts/2008/09/17/blue-horizon/)                                                                                                                  | 2008/09/17  - 12:29 am |
+| [Beyond My Grasp](/posts/2016/08/24/beyond-my-grasp/)                                                                                                            | 2016/08/24  - 6:56 pm  |
+| [Still Scratching That Itch](/posts/2007/08/16/still-scratching-that-itch/)                                                                                      | 2007/08/16  - 12:09 pm |
+| [Staring into the Face of Truth](/posts/2009/07/26/staring-into-the-face-of-truth/)                                                                              | 2009/07/26  - 9:02 am  |
+| [Slightly Left of Nowhere](/posts/2009/06/27/slightly-left-of-nowhere/)                                                                                          | 2009/06/27  - 8:27 pm  |
+| [Recapitulation & Reflection](/posts/2009/06/24/recapitulation-reflection/)                                                                                      | 2009/06/24  - 11:14 pm |
+| [Reality Check](/posts/2018/09/26/reality-check/)                                                                                                                | 2018/09/26  - 4:27 am  |
+| [Readers from Helium](/posts/2007/07/18/readers-from-helium/)                                                                                                    | 2007/07/18  - 8:31 am  |
+| [Proposed Doctrine of „ Notation](/posts/2025/05/25/proposed-doctrine-of-duo-comma-notation/)                                                                    | 2025/05/25  - 5:56 pm  |
+| [Point Penetrating Points Overlapping](/posts/2009/07/22/point-penetrating-points-overlapping/)                                                                  | 2009/07/22  - 1:55 pm  |
+| [Point Paradox](/posts/2008/02/23/point-paradox/)                                                                                                                | 2008/02/23  - 1:19 am  |
+| [Poetry and Figurative Language Paper](/posts/2016/08/24/poetry-and-figurative-language-paper/)                                                                  | 2016/08/24  - 4:44 pm  |
+| [Physics in a Distributed, Process Driven, Information-Based Universe](/posts/2025/11/17/physics-in-a-distributed-process-driven-information-based-universe/)    | 2025/11/17  - 8:15 pm  |
+| [Paying the Price](/posts/2007/08/12/paying-the-price/)                                                                                                          | 2007/08/12  - 8:47 pm  |
+| [Patience and Perseverance](/posts/2016/08/17/patience-and-perseverance/)                                                                                        | 2016/08/17  - 7:04 pm  |
+| [Open Letter to Lindsay Lohan](/posts/2007/08/09/open-letter-to-lindsay-lohan/)                                                                                  | 2007/08/09  - 11:33 am |
+| [Noosphere: The Future of Evolution?](/posts/2007/07/18/noosphere-the-future-of-evolution/)                                                                      | 2007/07/18  - 9:30 am  |
+| [Musings On Physics & Metaphysics](/posts/2018/09/15/musings-on-physics-metaphysics/)                                                                            | 2018/09/15  - 5:11 pm  |
+| [Matter and Movement in Four–or More–Dimensions](/posts/2009/07/08/matter-and-movement-in-four-or-more-dimensions/)                                              | 2009/07/08  - 3:46 pm  |
+| [It’s been a while…](/posts/2014/01/03/its-been-a-while/)                                                                                                        | 2014/01/03  - 2:43 pm  |
+| [It Takes a Village to Break a Child](/posts/2009/07/24/it-takes-a-village-to-break-a-child/)                                                                    | 2009/07/24  - 6:23 am  |
+| [It is Where You Can, and Yet… CAN You? On Writing What I Know.](/posts/2009/06/25/it-is-where-you-can-and-yet-can-you-on-writing-what-i-know/)                  | 2009/06/25  - 10:52 pm |
+| [Being  - Odds with Life](/posts/2007/08/09/being-at-odds-with-life/)                                                                                            | 2007-08-09  - 12:52 pm |
+| [Open Letter to Lindsay Lohan](/posts/2007/08/09/open-letter-to-lindsay-lohan/)                                                                                  | 2007-08-09  - 11:33 am |
+| [The Price of Admission](/posts/2007/08/06/the-price-of-admission/)                                                                                              | 2007-08-06  - 8:07 am  |
+| [Time in a Distributed, Process Driven, Information-Based Universe](/posts/2007/07/30/time-in-a-distributed-process-driven-information-based-universe/)          | 2007-07-30  - 6:17 am  |
+| [That Itch to Write](/posts/2007/07/29/that-itch-to-write/)                                                                                                      | 2007-07-29  - 9:07 am  |
+| [What is evil?](/posts/2007/07/25/what-is-evil/)                                                                                                                 | 2007-07-25  - 12:59 am |
+| [GID?](/posts/2007/07/20/gid/)                                                                                                                                   | 2007-07-20  - 7:23 am  |
+| [Explaining the Different Dimensions](/posts/2007/07/18/explaining-the-different-dimensions/)                                                                    | 2007-07-18  - 9:37 am  |
+| [Is there really such a thing as the present?](/posts/2007/07/18/is-there-really-such-a-thing-as-the-present/)                                                   | 2007-07-18  - 9:35 am  |
+| [Noosphere: The Future of Evolution?](/posts/2007/07/18/noosphere-the-future-of-evolution/)                                                                      | 2007-07-18  - 9:30 am  |
+| [The Purpose of Religion](/posts/2007/07/18/the-purpose-of-religion/)                                                                                            | 2007-07-18  - 9:26 am  |
+| [The Implications of the Mind in Matter: The Prospect of Oblivion](/posts/2007/07/18/the-implications-of-the-mind-in-matter-the-prospect-of-oblivion/)           | 2007-07-18  - 9:16 am  |
+| [Readers from Helium](/posts/2007/07/18/readers-from-helium/)                                                                                                    | 2007-07-18  - 8:31 am  |
+| [Helium.com Articles](/posts/2007/07/18/heliumcom-articles/)                                                                                                     | 2007-07-18  - 7:22 am  |
+|                                                                                                                                                                  |                        |
+| **eyeofparadox - pages**                                                                                                                                         |                        |
+| [the Paradoxical Reading list](/pages/the-paradoxical-reading-list/)                                                                                             | 2025-05-26  - 5:29 am  |
+| [Art Commisions](/pages/commissions/)                                                                                                                            | 2016-08-10  - 4:33 pm  |
+| [art featured on eyeofparadox](/pages/art-featured-on-eyeofparadox/)                                                                                             | 2025-05-31  - 6:53 pm  |
+| [Child of Paradox](/pages/home/)                                                                                                                                 | 2018-09-16  - 4:17 am  |
+| [Contact](/pages/contact/)                                                                                                                                       | 2018-09-16  - 4:17 am  |
+| [Eclipsed](/pages/eclipsed/)                                                                                                                                     | 2016-08-10  - 8:05 pm  |
+| [Fallen Angel](/pages/fallen-angel/)                                                                                                                             | 2009-06-22  - 1:21 am  |
+| [In the eyeofparadox](/pages/?page_id=394)                                                                                                                       | 2025-05-24  - 7:25 pm  |
+| [The Eve of Paradox](/pages/the-eve-of-paradox/)                                                                                                                 | 2007-08-16  - 1:24 pm  |
+| [— Chapter Aside](/pages/the-eve-of-paradox/untitled-efforts/)                                                                                                   | 2007-08-31  - 2:51 pm  |
+| [— Chapter One](/pages/the-eve-of-paradox/chapter-one/)                                                                                                          | 2007-08-16  - 1:36 pm  |
+| [— Chapter Two](/pages/the-eve-of-paradox/chapter-two/)                                                                                                          | 2007-08-16  - 1:29 pm  |
+| [— Chapter Three](/pages/the-eve-of-paradox/chapter-three/)                                                                                                      | 2007-08-16  - 1:30 pm  |
+| [— Chapter Four](/pages/the-eve-of-paradox/chapter-four/)                                                                                                        | 2007-08-16  - 1:31 pm  |
+| [— Chapter Five](/pages/the-eve-of-paradox/chapter-five/)                                                                                                        | 2007-08-16  - 1:33 pm  |
+| [— Chapter Six](/pages/the-eve-of-paradox/chapter-six/)                                                                                                          | 2007-08-16  - 1:34 pm  |
+| [— Chapter Seven](/pages/the-eve-of-paradox/chapter-seven/)                                                                                                      | 2007-08-16  - 1:35 pm  |
+| [The Price of Dreams](/pages/the-price-of-dreams/)                                                                                                               | 2016-08-10  - 8:27 pm  |
+| [— Unravelled – Prologue](/pages/the-price-of-dreams/unravelled-prologue/)                                                                                       | 2016-08-10  - 8:59 pm  |
+| [— Chapter 1](/pages/the-price-of-dreams/chapter-1/)                                                                                                             | 2016-08-10  - 9:12 pm  |
+| [— Chapter 2](/pages/the-price-of-dreams/chapter-2/)                                                                                                             | 2016-08-10  - 9:33 pm  |
+| [— Chapter 3](/pages/the-price-of-dreams/chapter-3/)                                                                                                             | 2016-08-10  - 9:40 pm  |
+| [— Chapter 4](/pages/the-price-of-dreams/chapter-4/)                                                                                                             | 2016-08-10  - 9:49 pm  |
+| [— Chapter 5](/pages/the-price-of-dreams/chapter-5/)                                                                                                             | 2016-08-10  - 10:05 pm |
+| [— Chapter 6](/pages/the-price-of-dreams/chapter-6/)                                                                                                             | 2016-08-10  - 10:11 pm |
+| [— Chapter 7](/pages/the-price-of-dreams/chapter-7/)                                                                                                             | 2016-08-10  - 10:16 pm |
+| [— Chapter 8](/pages/the-price-of-dreams/chapter-8/)                                                                                                             | 2016-08-10  - 10:27 pm |
+| [— Chapter 9](/pages/the-price-of-dreams/chapter-9/)                                                                                                             | 2016-08-10  - 10:37 pm |
+| [— Epilogue – Unravelling](/pages/the-price-of-dreams/epilogue-unravelling/)                                                                                     | 2016-08-10  - 10:44 pm |
+| [— Born](/pages/the-price-of-dreams/born/)                                                                                                                       | 2025-10-06  - 6:06 pm  |
+|                                                                                                                                                                  |                        |
