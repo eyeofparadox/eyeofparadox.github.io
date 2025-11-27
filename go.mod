@@ -6,4 +6,4 @@ require (
   github.com/razonyang/hugo-theme-bootstrap v1.13.2
 )
 
-replace github.com/razonyang/hugo-theme-bootstrap => github.com/eyeofparadox/hugo-theme-bootstrap v0.0.0-20251126201100-66fd31f5dd58
+replace github.com/razonyang/hugo-theme-bootstrap => github.com/eyeofparadox/hugo-theme-bootstrap 66fd31f5dd582bca74271e75a1c26cb7299a91e9
