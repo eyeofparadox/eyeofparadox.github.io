@@ -1,46 +1,55 @@
-baseURL: https://hbs-skeleton.netlify.app/
-title: Hugo Bootstrap Skeleton
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+baseURL: https://eyeofparadox.github.io/
+title: eyeofparadox on github
+copyright: "Copyright © 2007-2025 eyeofparadox. All Rights Reserved."
 defaultContentLanguage: en
-# hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
-# defaultContentLanguageInSubdir: true
-# disableLanguages:
-#  - fr
-#  - zh-cn
-#  - zh-tw
-pagination:
-  pagerSize: 10
-# paginatePath: page
+enableInlineShortcodes: true
+enableGitInfo: true
 enableRobotsTXT: true
 enableEmoji: true
+ignoreErrors: ["error-remote-getjson"]
+ignoreLogs: ["warning-goldmark-raw-html"]
+
+pagination:
+  pagerSize: 10
+
 pygmentsUseClasses: true
 
-blackfriday:
-  hrefTargetBlank: true
-
 taxonomies:
+  author: authors
   category: categories
-  series: series
   tag: tags
-  authors: authors
+  series: series
 
 build:
   writeStats: true
 
 permalinks:
-  news: /news/:year/:month/:title/
-  blog: /blog/:year/:month/:title/
+  posts: /posts/:year/:month/:title/
+  pages: /pages/:year/:month/:title/
 
 module:
   imports:
-    - path: github.com/razonyang/hugo-theme-bootstrap
-#   proxy: https://goproxy.cn
+    - path: github.com/eyeofparadox/hugo-theme-bootstrap
 
-# services:
-#   disqus:
-#     shortname: your-disqus-shortname
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  x:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
 
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     guessSyntax: true
     lineNos: true
