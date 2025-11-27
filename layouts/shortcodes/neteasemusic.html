@@ -8,6 +8,7 @@
 {{- if and .Params (isset .Params 2) -}}
   {{- $type = .Get 2 -}}
 {{- end -}}
+{{ warnf "Using local neteasemusic override" }}
 
 <div class="ratio ratio-21x9 neteasemusic mb-4">
   <iframe class="neteasemusic-iframe"
