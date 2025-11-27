@@ -1,5 +1,5 @@
 ---
-title: "I'm not dead yet..."
+title: "I'm not dead yet…"
 date: 2008-02-21
 categories: 
   - "personal-musings"

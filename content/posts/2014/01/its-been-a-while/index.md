@@ -1,5 +1,5 @@
 ---
-title: "It's been a while..."
+title: "It's been a while…"
 date: 2014-01-03
 categories: 
   - "personal-musings"
