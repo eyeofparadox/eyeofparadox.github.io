@@ -11,8 +11,13 @@ enableInlineShortcodes = true
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
-theme = "hugo-theme-tailwind"
 enableGitInfo = true
+# theme = "hugo-theme-bootstrap" <- use with themes/ submodule
+
+# hugo-theme-bootstrap setup is using the theme as a Hugo Module (via go.mod + replace), not as a local folder under themes/
+[module]
+  [[module.imports]]
+    path = "github.com/eyeofparadox/hugo-theme-bootstrap"
 
 # [author]
 	# name = "eyeofparadox"
@@ -28,7 +33,7 @@ pygmentsCodeFences = true
 
 # Taxonomies
 [taxonomies]
-	# author = 'authors'	# requirement -> `config.toml` HBS
+	author = 'authors'	# requirement -> `config.toml` HBS
 	category = "categories"
 	tag = "tags"
 	series = "series"
