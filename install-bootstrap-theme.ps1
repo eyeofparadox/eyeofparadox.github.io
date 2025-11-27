@@ -1,10 +1,3 @@
-```
-
-# install-bootstrap-theme.ps1
-# Usage:
-#   .\install-bootstrap-theme.ps1
-#   .\install-bootstrap-theme.ps1 -SitePath "eyeofparadox.github.io"
-
 param (
     [string]$SitePath = $null
 )
@@ -75,5 +68,7 @@ catch {
     exit 1
 }
 
-
-# ```
+# install-bootstrap-theme.ps1
+# Usage:
+#   .\install-bootstrap-theme.ps1
+#   .\install-bootstrap-theme.ps1 -SitePath "eyeofparadox.github.io"
