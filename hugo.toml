@@ -22,8 +22,13 @@ enableGitInfo = true
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 
+# Build - requirement -> `config.toml` HBS
+# [build]
+	# writeStats = true
+
 # Taxonomies
 [taxonomies]
+	# author = 'authors'	# requirement -> `config.toml` HBS
 	category = "categories"
 	tag = "tags"
 	series = "series"
