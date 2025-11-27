@@ -1,0 +1,33 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="{{ if .IsHome }}{{ $.Site.Params.subtitle }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
+<meta name="keywords" content="{{ with .Params.keywords }}{{ delimit . ", " }}{{ else }}{{ $.Site.Params.keywords }}{{ end }}" />
+<meta name="robots" content="noodp" />
+
+<!-- {{- if $.Site.Params.pwa.enabled }}<link rel="manifest" href="/manifest.json" />{{ end -}} -->
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}
+
+<link rel="canonical" href="{{ .Permalink | absURL }}">
+
+<link rel="icon" href="{{ "favicon.ico" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+
+
+{{ partialCached "css.html" . }}
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+{{- template "_internal/google_analytics.html" . -}}
+
+<!-- n8n web component -->
+
+{{- if (findRE `<n8n-demo` .Content 1) }}
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2.0.0/webcomponents-loader.js"></script>
+<script src="https://www.unpkg.com/lit@2.0.0-rc.2/polyfill-support.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@n8n_io/n8n-demo-component/n8n-demo.bundled.js" ></script>
+{{ end -}}
+
+{{- partial "custom_head.html" . -}}
+<!-- https://gohugo.io/templates/internal/#use-the-google-analytics-template -->

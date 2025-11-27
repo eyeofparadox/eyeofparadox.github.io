@@ -1,0 +1,111 @@
+# hugo.toml
+# 	ref: theme.toml Hugo theme template
+# 	See https://github.com/gohugoio/hugoThemesSiteBuilder
+# 	source for https://themes.gohugo.io
+
+baseURL = "https://eyeofparadox.github.io/"
+title = "eyeofparadox.github.io"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableInlineShortcodes = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+theme = "hugo-theme-tailwind"
+enableGitInfo = true
+
+# [author]
+	# name = "eyeofparadox"
+	# homepage = "https://github.com/eyeofparadox"
+	
+# Optional: enable syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+
+# Taxonomies
+[taxonomies]
+	category = "categories"
+	tag = "tags"
+	series = "series"
+
+[privacy]
+	[privacy.vimeo]
+		disabled = false
+		simple = true
+
+	[privacy.x]
+		disabled = false
+		enableDNT = true
+		simple = true
+
+	[privacy.instagram]
+		disabled = false
+		simple = true
+
+	[privacy.youtube]
+		disabled = false
+		privacyEnhanced = true
+
+# Params specific to GitHub-Style
+[params]
+	author = "eyeofparadox"
+	url = "https://github.com/eyeofparadox"
+	# description (other template had subtitle here)
+	subtitle = "in the ashes of ideas hides the spark of understanding"
+	keywords = "blog, echo, wordpress, posts, pages, essays, articles, fiction"
+	contentTypeName = "posts"
+	github = "eyeofparadox"	# icons/url's will come later
+	wordpress = "eyeofparadox"
+	linkedin = "David Roberson" # [David Roberson](www.linkedin.com/in/david-roberson-75583255)
+	artstation = "davidbryanroberson"
+	fab = "davidbryanroberson"
+	sketchfab = "davidbryanroberson"
+	deviantart = "aeirn"
+	pinterest = "davidbroberson"
+	instagram = "davidbryanroberso"
+	tumblr = "davidbroberson"
+	twitter = "EyeOfParadox"
+
+	[params.header]
+		logo = "logo.png"
+		title = "eyeofparadox"
+
+	[params.footer]
+		since = 2007
+		poweredby = true
+
+[menu]
+
+	[[menu.main]]
+		identifier = "posts"
+		name = "Posts"
+		pageRef = "/posts"
+		weight = 100
+
+	[[menu.main]]
+		identifier = "pages"
+		name = "Pages"
+		pageRef = "/pages"
+		weight = 150
+
+	[[menu.main]]
+		identifier = "about"
+		name = "About"
+		pageRef = "/about"
+		weight = 1
+
+
+# Markup configuration
+[markup]
+	_merge = "deep"
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
+
+	[markup.highlight]
+		codeFences = true
+		guessSyntax = true
+		lineNos = true
+
+# Optional: suppress warnings if you prefer a clean build log
+ignoreLogs = ['warning-goldmark-raw-html']
