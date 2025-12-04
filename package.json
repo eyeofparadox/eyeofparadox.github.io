@@ -22,5 +22,8 @@
     "workbox-strategies": "^7.4.0"
   },
   "name": "eyeofparadox.github.io",
-  "version": "0.1.0"
+  "version": "0.1.0",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^7.0.2"
+  }
 }
