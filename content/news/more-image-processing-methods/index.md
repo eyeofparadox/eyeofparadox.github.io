@@ -28,3 +28,4 @@ Since `v1.0.0-alpha.1`, HBS supports much more image processing methods. Such as
 <!--more-->
 
 See also [Image Processing](https://hbs.razonyang.com/v1/en/docs/image-processing/).
+

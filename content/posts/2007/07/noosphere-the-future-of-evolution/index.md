@@ -6,7 +6,6 @@ categories:
   - "helium"
   - "reader-response"
 ---
-
 Those moments in life when we are confronted with a new concept or idea can be life altering, seemingly setting the mind free to roam a new and undiscovered country or even knocking the world completely off its hinges.
 
 Sometimes that can happen even with just a new word or concept for something we've had an inkling of all along.
@@ -78,3 +77,4 @@ While that question is distracting and absorbing in turns, the implications of R
 Whatever bridge is to come, telepathy or neural-networking, Gaia or the Matrix, the best protocol for both is sharing a dream.
 
 Originally posted on Helium.
+

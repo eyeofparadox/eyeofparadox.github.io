@@ -8,7 +8,6 @@ categories:
   - "society"
   - "transgender"
 ---
-
 Today I find myself puzzling over the weird fact of my existence. The Internet created an opportunity to show a side of myself that I had long kept hidden.
 
 I am, at least in the terms used by the medical community (and by extension, the LGBTQ community), transgendered; in spite of being born and raised male the core of my identity is female.
@@ -78,3 +77,4 @@ As a misfit, I have always been painfully sensitive to the suffering of others, 
 Everyone is aware of it on some level and I am sure it is the weight of that apprehension that discourages so many, leaving them wondering if there is any point to existence, unable to understand how a meaningful universe could be so cruel and indifferent.
 
 I usually wonder why I am so desperate to find a place for myself in it. All I know is, this world is the one dream we all share and I am tired of dreaming alone.
+

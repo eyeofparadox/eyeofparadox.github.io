@@ -11,9 +11,9 @@ categories:
   - "space"
   - "time"
   - "universe"
-coverImage: "hyperspace_2k_300dpi-e1748500692804.png"
+images: 
+  - "/images/hyperspace_2k_300dpi-e1748500692804.png"
 ---
-
 This is a thought that just popped into my head after reviewing my last post. Right off the top of my head, I picked out two candidates for the fourth dimension of space; Scale and State.
 
 The underlying principle used to distinguish them was a concept that is spatial in nature, that lies beyond the immediate scope of a volume.
@@ -22,13 +22,13 @@ Technically speaking, a four dimensional space can theoretically contain an infi
 
 To illustrate, in three dimensions, you can observe a large, but presumably finite number of spheres populating space. Any given sphere can be broken down into onion layers, infinitesimally, discounting the plank limit on matter.
 
-In terms of _energy shells_, however, like magnetic fields, the illustration holds up. The upper limit for the size of a magnetic field is the sphere of three dimensional space itself.
+In terms of _energy shells_, however, like magnetic fields, the illustration holds up. The upper limit for the size of a magnetic field is the sphere of three dimensional space itself.
 
 Our concept of space is object oriented, dominated by the nature of vision and physical movement. That is, our perceptions are limited by the context of our bodies, which we generally think of as three dimensional.
 
 The notion of higher dimensions led us to the concept of hyperspace and objects like a hyper-sphere, the descriptions of which seem paradoxical.
 
-For example, hyperspace can be described as a place with an infinite, unbounded volume on it's surface, and in each layer you slice it into--which you can do an infinite number of times.
+For example, hyperspace can be described as a place with an infinite, unbounded volume on it's surface, and in each layer you slice it into---which you can do an infinite number of times.
 
 It's an expansion of the concept of a number line, where you can have an infinite number of points between any two established points. Say, zero and one.
 
@@ -38,7 +38,7 @@ Even so, we can glimpse and recognize the fourth dimension when making observati
 
 A dimension of scale is demonstrated by the onion layers example, and it is bi-directional, or polarized, like the three dimensions we are most familiar with.
 
-An object can be scaled up or down (in some cases you might think of it as in and out). It bends the mind a bit to imagine things scaling up or down to infinity, especially when you consider the alternative, a finite but unbounded line--a circle.
+An object can be scaled up or down (in some cases you might think of it as in and out). It bends the mind a bit to imagine things scaling up or down to infinity, especially when you consider the alternative, a finite but unbounded line---a circle.
 
 In a loop, the infinitely large scale seamlessly meets up with the infinitely small scale, revealing that their differences are only apparent at a distance from each other.
 
@@ -50,9 +50,9 @@ If it isn't, then consider the fact that the entire universe is a scaled object.
 
 The only possibility of a universe achieving a true change in scale, would be an instance where the scale of the plank unit is higher or lower than what we are bound to.
 
-The thing is, you cannot tell from within the universe if the plank scale changes, because everything else changes relative to it--unless you observe it from outside the universe.
+The thing is, you cannot tell from within the universe if the plank scale changes, because everything else changes relative to it---unless you observe it from outside the universe.
 
-Like many things, the scale of a universe is best observed from another position--in this case, another universe.
+Like many things, the scale of a universe is best observed from another position---in this case, another universe.
 
 A change in the scale of your own universe would only become apparent if you observed a global change in scale across all observable universes, indicating that it is not their scale that is changing, but your own.
 
@@ -101,3 +101,4 @@ You really don't get a viable existence without the integration of all three asp
 In our three dimensional world, they seem to stand apart. Perhaps in the fourth dimension, they all blend together into the same thing. If you really stop and think about it, asking _where is space?_ and _when is time?_
 
 For us, it's all in our heads.
+

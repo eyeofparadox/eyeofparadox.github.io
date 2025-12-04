@@ -1,5 +1,5 @@
 ---
-title: "Matter and Movement in Four--or More--Dimensions"
+title: "Matter and Movement in Four---or More---Dimensions"
 date: 2009-07-08
 categories: 
   - "dimensions"
@@ -20,7 +20,6 @@ tags:
   - "paradox"
   - "reflection"
 ---
-
 These days, it only takes a little curiosity, access to the Internet, and a bit of patience to find explanations of progressive spatial dimensions or examples of four dimensional geometry, such as the old favorite the hyper-square.
 
 Some of the things you will find use analogies like Flatland, or animations which is a way of using time and motion to reveal a higher dimensional object using a lower dimensional cross section.
@@ -47,7 +46,7 @@ The event you experience would largely be determined by the state of mind you ar
 
 The real challenge to time travel would be presented by the body and its influence on attention. As a three-dimensional spatial construct, the body predisposes us to move through time as a byproduct of moving through space.
 
-To arrive at a specific point in space and time, without transiting the intermediary space and time, would break the perceived continuity of events unless one could perceive space four dimensionally--in which case the intervening space was bypassed in an instant of time.
+To arrive at a specific point in space and time, without transiting the intermediary space and time, would break the perceived continuity of events unless one could perceive space four dimensionally---in which case the intervening space was bypassed in an instant of time.
 
 The mind can conceive of four-dimensions internally, but the real question is, how would you move the body through a fourth-dimension externally?
 
@@ -127,3 +126,4 @@ The hard part, for a mind rooted in a physical body in a world such as ours woul
 No tool or technology grounded in the physical world would be of much use in discovering or exploiting this fact.
 
 Not that you could not discover it by accident if the mind should happen to wander; though you would have a hard time distinguishing random moments scattered over infinite probability from dreaming.
+

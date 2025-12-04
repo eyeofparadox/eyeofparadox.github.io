@@ -19,7 +19,6 @@ tags:
   - "time"
   - "universe"
 ---
-
 In the eternal moment, the past and the future are simply a matter of perspective and the past can be influenced by overlapping reinforcement or the intent of the resolving future. A time paradox is a self-informing sequence within a point.
 
 The classic grandfather paradox assumes that time is linear, ignoring the fact that the appearance of a person from the future is an unprecedented event at that point in the past. It also ignores the consequences of his absence from the point of his departure in the future.
@@ -36,8 +35,9 @@ The presence of the time traveler in the past would be sustained by a conservati
 
 Multiple instances of reality would emerge, with a tendency to reconverge on the base time line or completely diverge into a maze of different paths striving to collapse into a stable path.
 
-The model of a grandfather paradox would describe a path along the original line, through the point of departure—continuing past that point to account for a future where the time traveler simply ceased to exist.
+The model of a grandfather paradox would describe a path along the original line, through the point of departure---continuing past that point to account for a future where the time traveler simply ceased to exist.
 
 The only way reality could accommodate this is by splitting into a loop intersecting the past and entering a tree of divergent and reconvergent branches.
 
 At least one one branch will feature the time traveler walking away from the cooling corpse of his grandfather into an alternate future where, instead of being born, he just magically appeared out of nowhere.
+

@@ -8,8 +8,7 @@ categories:
   - "individuality"
   - "personal-musings"
 ---
-
-There is more to this, to existing, than meets the eye. It is its own prerequisite and it hurts think about why or how. The only thing that hurts more is trying to make sense _not_ existing.
+There is more to this, to existing, than meets the eye. It is its own prerequisite and it hurts think about why or how. The only thing that hurts more is trying to make sense _not_ existing.
 
 But, given our circumstances, we can't really afford to take it for granted. By a certain age, we know that death awaits, but what does it really mean, in practice?
 
@@ -17,17 +16,17 @@ Its not a box you can just think you way out of, but its always safe to assume t
 
 So, if existence is all there is, does it even make sense for it to end? Existence may be unquestionable, but our own mortality whispers darkly that _we_ are an illusion.
 
-The uncertainty of it all makes us say that our mortality is what gives our lives meaning. The idea of appreciating what we have, and not wasting it or throwing it away seeking an escape from oblivion, seems noble--but it feels insane.
+The uncertainty of it all makes us say that our mortality is what gives our lives meaning. The idea of appreciating what we have, and not wasting it or throwing it away seeking an escape from oblivion, seems noble---but it feels insane.
 
 Life gives us many sips of oblivion; enough to prove the _absence_ of being is not experienced.
 
-Our existence is our only true possession, and it can be taken away at any moment. Or rather, _we_ can be removed from it.
+Our existence is our only true possession, and it can be taken away at any moment. Or rather, _we_ can be removed from it.
 
 We know that life will go on without us, because we have experienced going on when someone in our world dies. Unlike dreamless sleep, death does not end in waking up.
 
-Or at least, not in _this_ world.
+Or at least, not in _this_ world.
 
-It should bother more, except, in my own experience--in being _me--_I don't really exist in _this_ world. What makes me "me" can be found only in my mind.
+It should bother more, except, in my own experience---in being _me---_I don't really exist in _this_ world. What makes me "me" can be found only in my mind.
 
 The only _proof_ of _my_ existence is the pain I experience _perceiving_ it. I can't deny the facts of my reality and I do my best to endure it, but I am trapped between the impossibility of my life and death.
 
@@ -35,7 +34,7 @@ My only hope, if there is hope for me _at all,_ lies in what most people conside
 
 It's a paradox, but its one that convinces me that there _must_ be more to existing than _this_.
 
-I may never find what I need in _this_ world but I still have to look for it.
+I may never find what I need in _this_ world but I still have to look for it.
 
 I have entertained doubt, out of respect for the possibility that I am not be the clearest sighted, or the surest minded. I can admit that maybe I never had a chance.
 
@@ -53,7 +52,7 @@ Consciousness is more of a very coherent dream. We are the dreamers and the drea
 
 There are many ways to pose this same idea; the thinker and the thought, has a special ring that should strike chords in anyone, simply because it is accurate, and may well be true.
 
-Ideas like these sometimes feel unsettling, but it's often distress that prompts people to carefully consider what dreams, art and thoughts are—if they could have such powerful implications.
+Ideas like these sometimes feel unsettling, but it's often distress that prompts people to carefully consider what dreams, art and thoughts are---if they could have such powerful implications.
 
 We are like children, making the rules to our own games, and measuring ourselves by how well we adapt and function under these rules. But, what I think is that the rules are only a tool; a way to place context and consequence on our actions.
 
@@ -87,7 +86,7 @@ In that case, perhaps we should try to make it an informed choice.
 
 Since we cannot count on reliable authorities for information on the mystery of existence, we will simply have to put it together ourselves as best we can. Thinking the most daring and integral thoughts, always striving for the most accuracy.
 
-We can assume there will always be paradoxes to thwart us. Each paradox is an indication that there is more than just an idea to consider, but a condition, aspect or quality of existence.
+We can assume there will always be paradoxes to thwart us. Each paradox is an indication that there is more than just an idea to consider, but a condition, aspect or quality of existence.
 
 Since the best definition of a thing is the thing itself, it is important to be able to recognize something when we encounter it or refer to it.
 
@@ -101,7 +100,7 @@ Now, each of these perspectives also has its way of imposing its rules, and any 
 
 If an option leads to stagnation and entropy, it obviously is not a very good option.
 
-Since the worst that could happen would be for our choice to be wrong—though there is no right or wrong—it really has more to do with application.
+Since the worst that could happen would be for our choice to be wrong---though there is no right or wrong---it really has more to do with application.
 
 So, the worst that could happen is for us to think that we will choose the best, but choosing the worst out of habit or indecisiveness.
 
@@ -175,7 +174,7 @@ The best way to keep life is to keep living life. The best way to keep living li
 
 Not literally in an organic mass; but as a constant refinement and exploration.
 
-The organism only grows enough to achieve its temporary design of adulthood. In doing so it rushes past the marvelous condition of childhood.
+The organism only grows enough to achieve its temporary design of adulthood. In doing so it rushes past the marvelous condition of childhood.
 
 As much as adulthood has the purpose of reproduction to renew the race, there are no provisions to renew the individual.
 
@@ -202,3 +201,4 @@ It's my life. It's your life.
 I have to live mine, and you have to live yours.
 
 Some day we will have a world worth living in, even if we have to create it from scratch.
+

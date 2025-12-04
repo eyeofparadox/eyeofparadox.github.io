@@ -1,6 +1,0 @@
----
-title: "Aegis"
-draft: true
----
-
-

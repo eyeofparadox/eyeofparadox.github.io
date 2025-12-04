@@ -1,10 +1,11 @@
 ---
-title: Series
+title: "Series"
 menu:
   main:
-    parent: blog
+    parent: "Library"
+    identifier: "series"
     weight: 2
     params:
-      icon: <i class="fas fa-fw fa-columns"></i>
-      description: List of series.
+      icon: <i class="fas fa-fw fa-link"></i>
 ---
+

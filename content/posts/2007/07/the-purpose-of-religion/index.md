@@ -6,14 +6,13 @@ categories:
   - "helium"
   - "reader-response"
 ---
-
 In asking about the purpose of religion, it is necessary to ask first if religion is not simply a product of our own search for purpose?
 
 The answer to the primary question depends on whether we perceive religion as having a divine origin or if we see it as the origin of divine thinking.
 
 Either way, religion comes to us through human agents, so we have to begin by looking at what it is to be human.
 
-It is in our nature to form ideas about the world based upon our observations and experiences--and we all do it.
+It is in our nature to form ideas about the world based upon our observations and experiences---and we all do it.
 
 In the world, and in our selves, we find things that are difficult to comprehend or explain. Sometimes these mysteries are profound and wonderful, and sometimes these mysteries are profane and terrifying.
 
@@ -29,7 +28,7 @@ The result is the belief in a special context for existence:
 
 The spirit.
 
-This is on one hand a very important thing, because it demands recognition of the existence of the mind itself, which is essential to the experience of life--if not necessarily in order for life to exist--but which cannot be accounted for as part of the physical universe.
+This is on one hand a very important thing, because it demands recognition of the existence of the mind itself, which is essential to the experience of life---if not necessarily in order for life to exist---but which cannot be accounted for as part of the physical universe.
 
 It also proposes that the mind could be more than the light from a light bulb, a mere epiphenomenon of the brain.
 
@@ -45,7 +44,7 @@ One cannot know if there is a continuity of consciousness and individuality afte
 
 Even if someone dies and is revived, or miraculously resurrected, it is reasonable to question whether one has actually died or simply come very close to death.
 
-The beliefs and traditions of indigenous people were developed by people who lived in--and saw themselves as part of--the natural world.
+The beliefs and traditions of indigenous people were developed by people who lived in---and saw themselves as part of---the natural world.
 
 They were very conscious of their dependence upon the land, plants, animals and elements in order to survive.
 
@@ -61,7 +60,7 @@ They could be honest and sincere in the manner they chose to live, and that allo
 
 More importantly, it allowed them to extend their sense of the sacred and spiritual beyond their personal selves.
 
-The abstract aspects of consciousness--thought, understanding, awareness, purpose, and identity--the intangible aspects of people that the apprehension of the spirit is based upon--could be extended to the universe in all of its diversity and revealed that all things in creation are important.
+The abstract aspects of consciousness---thought, understanding, awareness, purpose, and identity---the intangible aspects of people that the apprehension of the spirit is based upon---could be extended to the universe in all of its diversity and revealed that all things in creation are important.
 
 It gave all things a divine quality and completed the circle of life by making birth and death doorways to another realm of existence that was home to those not yet born and those passed away.
 
@@ -122,3 +121,4 @@ For the most part, people continue to subscribe to someone else's interpretation
 This suggests that many people turn to religion as a way to abdicate responsibility, when in truth, the true purpose of religion requires people to take responsibility for their own lives and actions.
 
 Originally posted on Helium.
+

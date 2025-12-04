@@ -1,5 +1,5 @@
 ---
-title: "Musings On Physics &amp; Metaphysics"
+title: "Musings On Physics & Metaphysics"
 date: 2018-09-16
 categories: 
   - "awareness"
@@ -10,9 +10,9 @@ categories:
   - "time"
   - "understanding"
   - "universe"
-coverImage: "avmorgan___spaces_in_between_by_avmorgan-da2cfh21.png"
+images: 
+  - "/images/avmorgan___spaces_in_between_by_avmorgan-da2cfh21.png"
 ---
-
 A lot of time has passed since I had the impulse to post anything; that does not mean I stopped writing my thoughts down! I came across the following on a buried tab in my Notepad++ application. I have tons of random notes like this, and often do nothing with them.
 
 I mean, they're not really intended for the average reader. You might not be able to follow them, and I don't really know what parts need further elaboration for you to grok them. Even so, I can still throw them out there and hope that you will comment or request explanations if you need them.
@@ -71,7 +71,7 @@ My practice is different, conceptually and interpretively, from the established 
 
 The point is, a more articulate and rigorous _definition of dimensions_ is needed. In general, the dimensions of an expression can be thought of as the number of coordinates of equivalent measure necessary to account for any object or the intrinsic framework of that expression.
 
-In space, three-dimensions are sufficient for the expression of a volume, which can be measured according to height, width and depth--all three measures equivalent to a measure of length or distance in one-dimensional units on perpendicular axes.
+In space, three-dimensions are sufficient for the expression of a volume, which can be measured according to height, width and depth---all three measures equivalent to a measure of length or distance in one-dimensional units on perpendicular axes.
 
 The spatial example of dimensionality presents an (implicit?) argument that the next dimension up, from any given dimension, overlies and extends ninety-degrees outside that dimension.
 
@@ -88,7 +88,7 @@ Along with other applications of the concept of dimensions, in other contexts (a
 
 Well, there's always something churning through my mind on this. As far as infinite values in finite systems go, I still have this intuitive/instinctive sense that it's a huge, blinding sign of a dimensional transition.
 
-As I see it, it's sort of where things take a step up (maybe a step down--or perhaps in/out) from the established (select) frame of reference.
+As I see it, it's sort of where things take a step up (maybe a step down---or perhaps in/out) from the established (select) frame of reference.
 
 \[I have got to do a brain dump on dimensions; it's really overdue.\]
 
@@ -155,7 +155,7 @@ The examples I've found all demonstrate that space curves around a massive objec
 
 The curvature of space remains an interesting notion, to me. I want to be clear if and how the curvature of space is actual or apparent.
 
-In true curved space, as evident in two dimensions, a line within a plane remains straight by one-dimensional rules even if the line curves within the plane, by two-dimensional rules--or even if the plane containing it is bent in three-dimensions.
+In true curved space, as evident in two dimensions, a line within a plane remains straight by one-dimensional rules even if the line curves within the plane, by two-dimensional rules---or even if the plane containing it is bent in three-dimensions.
 
 The curvature of the line requires at least one higher dimension into which the line is projected. So, the curvature of space associated with gravity indicates that a fourth spatial dimension (at least) is in use.
 
@@ -197,7 +197,7 @@ It isn't enough to rest our knowledge on observed properties. I have always felt
 
 Energy, which can neither be created nor destroyed (as a conserved quantity, and merely changing form or state), stands out as a true fundamental property.
 
-It provides for the possibility of _change_. It points to _something_ that _can_ change, and pondering _what it is_ that would be changed, the next, immediate fundamental property would be some expression of _state_.
+It provides for the possibility of _change_. It points to _something_ that _can_ change, and pondering _what it is_ that would be changed, the next, immediate fundamental property would be some expression of _state_.
 
 Of course, to really fix the _state_ of energy, some kind of _structure_ is necessary. Beneath the matter of _what_ is structured is _where_ that structure _resides._
 
@@ -217,9 +217,9 @@ In general, I have been fascinated by the _subjective_ states we experience in t
 
 The universe may exist independently of us, but for us, there is no universe without the presence of the mind. Though we are small-scale participants, we are large-scale observers.
 
-Most of the universe lies outside our personal scope of perception, so we can't really say that our observations are required for something to exist--for an event to occur.
+Most of the universe lies outside our personal scope of perception, so we can't really say that our observations are required for something to exist---for an event to occur.
 
-We do, however, exploit processes by which the universe resolves itself. Our existence, dependent on the property of awareness as it is, points out--at the very least--that _awareness_ is a property fundamental to us.
+We do, however, exploit processes by which the universe resolves itself. Our existence, dependent on the property of awareness as it is, points out---at the very least---that _awareness_ is a property fundamental to us.
 
 It's not a huge stretch to guess that it could be a property fundamental to the _universe_ or _existence_ itself. The big picture implicit in a universe rendered in infinite detail has to resolve _somewhere_.
 
@@ -247,6 +247,7 @@ A vacuum can be viewed not as empty space but as the combination of all zero-poi
 
 In quantum field theory, the vacuum state is the quantum state with the lowest possible energy; it contains no physical particles, and is the energy of the ground state.
 
-This is also called the zero point energy; the energy of a system at a temperature of zero. (Aug 3, 2011) Many physicists believe that "the vacuum holds the key to a full understanding of nature" \[Davies (1985), p. 104\]
+This is also called the zero point energy; the energy of a system at a temperature of zero. (Aug 3, 2011) Many physicists believe that "the vacuum holds the key to a full understanding of nature" \[Davies (1985), p. 104\]
 
-Davies, P. C. W. (1985). Superforce: The Search for a Grand Unified Theory of Nature. New York: Simon and Schuster. ISBN 0-671-47685-8. LCCN 84005473. OCLC 12397205.
+Davies, P. C. W. (1985). _Superforce: The Search for a Grand Unified Theory of Nature_. New York: Simon and Schuster. ISBN 0-671-47685-8. LCCN 84005473. OCLC 12397205.
+

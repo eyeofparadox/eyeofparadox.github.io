@@ -1,5 +1,5 @@
 ---
-title: "A Goddess &amp; A Girl [SPOILER]"
+title: "A Goddess & A Girl [SPOILER]"
 date: 2019-06-05
 categories: 
   - "aeirn"
@@ -12,10 +12,12 @@ tags:
   - "eclipsed-notes"
   - "migrated-posts"
   - "work-in-progress"
-coverImage: "190604-0030-avonlea-archangel-detail-fhd.png"
+images: 
+  - "/images/190604-0030-avonlea-archangel-detail-fhd.png"
 ---
+I've set out a number of approaches to Child of Paradox over the years. Even recently, I've danced around my personal relationship with the evolution of the story, trying to deal with it in the characters' context. I have had to know the whole thing to handle the paradoxical influences, in contrast to the perspectives of both readers and characters. Warning of spoilers ahead, here's a glimpse into the story behind the story: 
 
-I've set out a number of approaches to Child of Paradox over the years. Even recently, I've danced around my personal relationship with the evolution of the story, trying to deal with it in the characters' context. I have had to know the whole thing to handle the paradoxical influences, in contrast to the perspectives of both readers and characters. Warning of spoilers ahead, here's a glimpse into the story behind the story: In addition to other notions I've shared, this is a slightly different take on the story. The premise begins with the dream within my nightmare. Within me, my ideal self retreated from reality propping up an alter ego that is in essence a demon. My dream was always a search for a way to be myself. My nightmare was being trapped in a world where I didn't really exist. My demon was originally an angel, but in pursuit of my dream, it became possessive and took a key role in reshaping my dream into a reality where I could exist, though I did not live in it.
+In addition to other notions I've shared, this is a slightly different take on the story. The premise begins with the dream within my nightmare. Within me, my ideal self retreated from reality propping up an alter ego that is in essence a demon. My dream was always a search for a way to be myself. My nightmare was being trapped in a world where I didn't really exist. My demon was originally an angel, but in pursuit of my dream, it became possessive and took a key role in reshaping my dream into a reality where I could exist, though I did not live in it.
 
 Not until the events leading to the birth of Avon Ova Leah. Among those events was a plot to seize the authority of the demon over the realm of Aeirn and the gods who helped realize the world of my dream. The plot originally focused on the First, a dragon possessed in the fall of my angel, during the collapse of a reality where life was prosecuted with extreme prejudice by the Unborn. My demon gained a foothold in that reality and began to collect souls resonant with my ideal. The dragon played a key role in salvaging those possessed souls and guiding them to the dream that eventually became the realm of Aeirn.
 
@@ -23,15 +25,17 @@ The evolution of this new reality has been explored in some detail, but key poin
 
 The Cataclysm was the beginning of the end of the Age of Gods, and the rise of magic and technology in different corners of Aeirn. Civilization reestablished itself over several thousand years. In the generation prior to Avonlea's birth, the remnants of the Purge had driven most of the surviving gods into self-imposed exile among the mortal population. Dawn was one of the few who remained actively involved in the world as a goddess, though faced with persecution by the Church promoting belief in the First as the Creator.
 
-Dawn ended up taking the blame for the Cataclysm, accused of breaking reality to defeat her adversary in the purge. Assuming his identity, the demon came to be known as The Adversary, and the antithesis of the Creator. The Church held deep suspicions about the true nature of his association with Dawn, and her intimate relationship with Dusk. In spite of that animosity, there were some who believed she was the true mother of the realm, equal in creative significance to--and possibly more central than--Dusk.
+Dawn ended up taking the blame for the Cataclysm, accused of breaking reality to defeat her adversary in the purge. Assuming his identity, the demon came to be known as The Adversary, and the antithesis of the Creator. The Church held deep suspicions about the true nature of his association with Dawn, and her intimate relationship with Dusk. In spite of that animosity, there were some who believed she was the true mother of the realm, equal in creative significance to---and possibly more central than---Dusk.
 
-While a few sought to orchestrate the true incarnation of Dusk, at least one pursued a scheme to bring the phoenix to life. The paradox of the rifts made it possible for Avonlea to become her own mother, as a pawn in that exclusive scheme. Her recognition as the mortal incarnation of the phoenix was leaked, drawing the Adversary and agents of the Purge down on a gathering at her home when her daughter--her younger self--was seven. The massacre she survived left her traumatized and unlocked her psychic potential.
+While a few sought to orchestrate the true incarnation of Dusk, at least one pursued a scheme to bring the phoenix to life. The paradox of the rifts made it possible for Avonlea to become her own mother, as a pawn in that exclusive scheme. Her recognition as the mortal incarnation of the phoenix was leaked, drawing the Adversary and agents of the Purge down on a gathering at her home when her daughter---her younger self---was seven. The massacre she survived left her traumatized and unlocked her psychic potential.
 
 Avonlea (a single name derived from her birth name, or borrowed directly from the town of her birth) was taken in as an orphan of the Scourge and initiated at the Academy. By the age of seventeen, her memories of the tragedy resurfaced through her nightmares. The path they led her down brought her to the edge of the rift, and through it into the past, where she continued to unearth the mysteries of her origins. Through the paradox, she became the host mother to the incarnation of Dawn.
 
-Knowing that the massacre was unavoidable, she tried to drive away those her presence would endanger. She believed her own death was inevitable, having witnessed it as a child. The many strange--and ostensibly fatal--events she survived up to that point promised to prove the truth in the name of her inspiration, the Phoenix. She tried to use her death to end the threat of the Adversary, but unwittingly provided herself as a stepping stone to his possession of Avon Ova Leah. Thus, the Adversary initiated the girl's ambisexual curse--and the key to her new immortality.
+Knowing that the massacre was unavoidable, she tried to drive away those her presence would endanger. She believed her own death was inevitable, having witnessed it as a child. The many strange---and ostensibly fatal---events she survived up to that point promised to prove the truth in the name of her inspiration, the Phoenix. She tried to use her death to end the threat of the Adversary, but unwittingly provided herself as a stepping stone to his possession of Avon Ova Leah. Thus, the Adversary initiated the girl's ambisexual curse---and the key to her new immortality.
 
-What's in a Name?
+---
+
+#### What's in a Name?
 
 The meaning of the name “Ava” is: “Like a Bird; Voice”. Additional information: Ava is a feminine name with many root languages – it is a diminutive of the Latin Avis, which gives the name its meaning of ‘like a bird’ or ‘birdlike’. It was also a medieval Germanic name that was associated with water, and it is a Persian name that means ‘voice’. Because of all of these roots, Ava has many different spellings in foreign languages. Eva is the most common, used in countries such as Germany, Portugal, and Russia, but other foreign variants include Eve (French), Evita (Spanish diminutive for Eva), and Ewa (Polish). Ava is a very common gender neutral diminutive for a number Russian names, including the feminine Avelina, Aventina, and Avrora (the Russian form of ‘Aurora’), and the masculine Avel, Avgust, and Avim. ‘Eva’ is not only a foreign variant of Ava, but an English name similar to Ava; others are Aveline, Evelyn, and Ada. Common misspellings of Ava are ‘Av’ or ‘Ave’.
 
@@ -63,6 +67,5 @@ The meaning of the name “Ova” is: “Egg”. Categories: Latin Names Used in
 
 The meaning of the name “Nova” is: “New”. Categories: American Names, English Names Used in: English speaking countries Gender: Girl Names Origins: Latin Pronunciation: (NOH vah) Form of: Itself (Nova)
 
-The different meanings of the name Leah are: Celtic - Gaelic meaning: The light of the sun Irish meaning: The light of the sun Assyrian meaning: Mistress, ruler Greek meaning: Glad tidings Hebrew meaning: Tired or weary American meaning: Tired or weary
+The different meanings of the name Leah are: Celtic---Gaelic meaning: The light of the sun Irish meaning: The light of the sun Assyrian meaning: Mistress, ruler Greek meaning: Glad tidings Hebrew meaning: Tired or weary American meaning: Tired or weary
 
-\[caption id="attachment\_45" align="alignnone" width="1920"\]![Archangel](images/190604-0030-avonlea-archangel-detail-fhd.png) Concept Art\[/caption\]

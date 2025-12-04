@@ -1,10 +1,11 @@
 ---
-title: Categories
+title: "Categories"
 menu:
   main:
-    parent: blog
+    parent: "Library"
+    identifier: "categories"
     weight: 3
     params:
-      icon: <i class="fas fa-fw fa-folder text-success"></i>
-      description: List of categories.
+      icon: '<i class="fas fa-fw fa-folder"></i>'
 ---
+

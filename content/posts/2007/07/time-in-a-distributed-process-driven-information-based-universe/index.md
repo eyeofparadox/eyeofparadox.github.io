@@ -6,7 +6,6 @@ categories:
   - "time"
   - "universe"
 ---
-
 In order to understand time it becomes necessary to ask if time is an objective or subjective medium. To be clear, by considering time subjectively I do not mean simply in terms of our subjective perception of time. The question asks if time is absolute, and thus events at different points in time persist in their own frame of reference with a constant relative position in time.
 
 Basically, it asks if there are actual positions in and structure to time. The alternative, subjective time, deals with the concept of time as being functional, an operation upon the objective structure of matter and energy in space like the constant balancing of an equation in which there is no actual time, just a present state of the equation.
@@ -33,6 +32,7 @@ In a process driven, information based universe, the consequences of particles w
 
 The increase of information in any region would reduce the amount of change possible in that frame of reference. Any information coming into the region of density would become subject to the attenuation.
 
-Each mass of information, having the tendency to attenuate time, would also attenuate space -- specifically, to compensate for the processing debt created by an information mass, the scope of transformation around that mass would be reduced, conserving energy.
+Each mass of information, having the tendency to attenuate time, would also attenuate space---specifically, to compensate for the processing debt created by an information mass, the scope of transformation around that mass would be reduced, conserving energy.
 
 A natural consequence of this space-time dilation is of course the expansion of the universal frame of reference.
+

@@ -7,8 +7,9 @@ categories:
   - "reader-response"
   - "time"
 ---
+Is there really such a thing as time? 
 
-Is there really such a thing as time? That is a question it is helpful to ask in order to address what we call the present. That is because our experience of time is completely subjective and because everything we are is dependent on that peculiar subjectivity.
+That is a question it is helpful to ask in order to address what we call the present. That is because our experience of time is completely subjective and because everything we are is dependent on that peculiar subjectivity.
 
 Time is what we derive from the ceaseless transformation that is part of awareness, consciousness, thought, perception, action and reaction.
 
@@ -59,3 +60,4 @@ Does it sound mysterious?
 It might as well; life as we know it is all of these things. The only part of it we get a back-stage pass to is the part that goes on in our minds. That's something to think about when we get around to wondering what, exactly, space is.
 
 Originally posted on Helium.
+

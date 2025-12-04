@@ -1,10 +1,10 @@
 ---
-title: Docs Sample
+title: "Docs"
 menu:
   main:
-    weight: 1
+    identifier: "docs"
+    weight: 2
     params:
       icon: '<i class="fas fa-fw fa-file"></i>'
 ---
 
-The example of Docs layout.

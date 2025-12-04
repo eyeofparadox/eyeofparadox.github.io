@@ -16,9 +16,9 @@ tags:
   - "nuclear-forces"
   - "physics-2"
   - "singularity-2"
-coverImage: "hyperspace_2k_300dpi-e1748500692804.png"
+images: 
+  - "/images/hyperspace_2k_300dpi-e1748500692804.png"
 ---
-
 From time to time, I stumble across a question I have to stop and ask, but I am usually in the middle of something that needs to be done. So, I put it off for later, often forgetting to even write the question down. I know this one is going to come back to plague me, so I am putting it out there in the hopes I can come back and do some research on it later, while giving the random visitor to my site a chance to comment on it or point me toward a source with something to say about the subject.
 
 Obviously, I have not personally noted any discussion of what happens to the Strong and Weak Nuclear Forces when the force of Gravity collapses all structure in a Singularity. If I am interpreting what I have heard correctly, Black Hole Theory does address a few points concerning behavior related to the Electric and Magnetic Forces at the Event Horizon.
@@ -35,4 +35,5 @@ Something is going on in the Electromagnetic between the Singularity and the Eve
 
 I know that very smart people have been thinking about this for decades (closer to a century now), so I'm sure someone has given this careful thought. I may have to sit down and actually read Hawking's books (forever on my to-do list) once I'm no longer scrabbling to get on my feet. I've always taken the Einstein approach, to work out the problem for myself in thought experiments. I usually take myself to the same places real Physicists' theories go. So it's worthwhile speculation.
 
-Still, it would save me some time if anyone can point to an article or publication that clearly addresses the question. On the extremely off chance the question was too obvious to get asked, because the answer is obvious--explained in the math--to a practicing physicist, then this is me asking for an English translation.
+Still, it would save me some time if anyone can point to an article or publication that clearly addresses the question. On the extremely off chance the question was too obvious to get asked, because the answer is obvious---explained in the math---to a practicing physicist, then this is me asking for an English translation.
+

@@ -9,14 +9,13 @@ categories:
   - "reflection"
   - "society"
 ---
-
 Even with the best intentions no one has the right to impose a system of thought or action on anyone against their will. Ironically, that is exactly what has happened to all of us as we were born into this world.
 
 It is in some ways no different than being born into slavery, in the sense that we come into the world having no say in the system that will govern our lives, and we spend our most vulnerable years being programmed to become obedient citizens and uphold the status quo.
 
 As children we learn that the double-standard is pretty much the rule in virtually all situations, and while there seem to be thousands of problems in the world, the one thing all problems have in common is apathy and indifference.
 
-The older generation has already been through the school of hard knocks and become bitter, skeptical, intolerant, or what have you--the end result being that most people have given up on trying to make the world a better place and turned their attention to finding a better place in the world.
+The older generation has already been through the school of hard knocks and become bitter, skeptical, intolerant, or what have you---the end result being that most people have given up on trying to make the world a better place and turned their attention to finding a better place in the world.
 
 While most people are busy pushing and shoving each other aside trying to "get their share" no one is taking responsibility for the world we share.
 
@@ -52,8 +51,9 @@ We can choose to be weak, we can choose to be insignificant, or we can choose to
 
 Those choices are ours, and we make them by doing what those choices call for. But, no one is going to make the right choice if no one cares.
 
-The only thing that people need, really, is something that most people have--or can get access to--and the only thing they need to do is stop taking it for granted.
+The only thing that people need, really, is something that most people have---or can get access to---and the only thing they need to do is stop taking it for granted.
 
 It's called a mirror.
 
-Take a good look, because that is who is going to change the world--or not--and that is who you have to fight to succeed.
+Take a good look, because that is who is going to change the world---or not---and that is who you have to fight to succeed.
+

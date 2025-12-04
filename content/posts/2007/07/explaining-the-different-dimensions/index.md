@@ -7,10 +7,8 @@ categories:
   - "helium"
   - "reader-response"
 ---
-
-I normally avoid the first person when writing an article or essay, but in this case I need to begin with a personal story
-
-* * *
+> I normally avoid the first person when writing an article or essay, but in this case I need to begin with a personal story
+---
 
 A year into my studies at Humboldt State University a mutual acquaintance showed up at my friend's apartment while I was visiting and regaled us with his synopsis of a lecture on dimensions he recently attended.
 
@@ -32,7 +30,7 @@ I suspect he took me too literally, because he objected, claiming, "The only way
 
 My immediate thought was, "Maybe it has."
 
-* * *
+---
 
 Since that day, I have given a lot of thought to the concept of dimensions, and the ways that dimensional concepts have been (or can be) applied.
 
@@ -82,7 +80,7 @@ Obviously, the fourth-dimension is going to take a bit more work to understand, 
 
 Originally posted on Helium.
 
-* * *
+---
 
 **Amended on 2009/06/22 at 12:38 AM**
 
@@ -143,3 +141,4 @@ This is based on the observation that a construct of one greater dimension is re
 A common example is viewing a two-dimensional image (obliquely) from the perspective of the third-dimension.
 
 By extension, a three-dimensional image is viewed obliquely from a four-dimensional perspective, and so on.
+

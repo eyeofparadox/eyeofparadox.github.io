@@ -7,17 +7,17 @@ categories:
   - "writing"
 tags: 
   - "fiction"
+images: 
+  - "/images/summer_comes___by_kyena.png"
 ---
+> I just stumbled across a few things I wrote for a creative writing class I took this past spring to fulfill an elective requirement. One of the assignments involved writing a short story based on a work of art found online. I had no trouble thinking of one that sparked my imagination. The painting "[Summer Comes](http://kyena.deviantart.com/art/Summer-comes-30814005)" by Kyena was posted on DeviantArt on March 24, 2006, receiving special notice on April 12, 2006 as a "Daily Deviation" or a featured artwork on the popular artists' community site.
+> 
+> The painting features a girl in a white summer dress in a windy field, holding the strings to two balloons behind her back. One balloon can be seen floating away in the background, where fluffy, white clouds are seen in a bright, blue sky. The point of view is from the ground, looking up through brilliant red flowers, and some of the petals are caught on the wind. It is not hard to imagine that the observer lies in the grass, fallen from his last, desperate attempt to catch the balloon that got away from the girl. The focus of his eyes is not on the distant, rising rogue; he gazes up into the girl's face, observing the way the light caresses the side of her face and turns her hair to gold. As the subject of an exercise in imagination, this painting has great potential for testing the notion that a picture paints a thousand words.
+---
+## Summer Comes…
+I can still remember the day I met Elizabeth. We must have crossed each other’s path a hundred times the morning of the May Festival, oblivious to each other in the crowds. In among the tent stalls where a turbulent river of humanity divided carnival style games from street-fair merchandise, it was too easy to become overwhelmed. Desperate to escape from the deafening sea of laughter and incoherent chatter, I set off across the field to where my family had settled for our picnic. 
 
-I just stumbled across a few things I wrote for a creative writing class I took this past spring to fulfill an elective requirement. One of the assignments involved writing a short story based on a work of art found online. I had no trouble thinking of one that sparked my imagination. The painting "[Summer Comes](http://kyena.deviantart.com/art/Summer-comes-30814005)" by Kyena was posted on DeviantArt on March 24, 2006, receiving special notice on April 12, 2006 as a "Daily Deviation" or a featured artwork on the popular artists' community site.
-
-![summer_comes___by_kyena](images/summer_comes___by_kyena.png)
-
-The painting features a girl in a white summer dress in a windy field, holding the strings to two balloons behind her back. One balloon can be seen floating away in the background, where fluffy, white clouds are seen in a bright, blue sky. The point of view is from the ground, looking up through brilliant red flowers, and some of the petals are caught on the wind. It is not hard to imagine that the observer lies in the grass, fallen from his last, desperate attempt to catch the balloon that got away from the girl. The focus of his eyes is not on the distant, rising rogue; he gazes up into the girl's face, observing the way the light caresses the side of her face and turns her hair to gold. As the subject of an exercise in imagination, this painting has great potential for testing the notion that a picture paints a thousand words.
-
-**Summer Comes…**
-
-I can still remember the day I met Elizabeth. We must have crossed each other’s path a hundred times the morning of the May Festival, oblivious to each other in the crowds. In among the tent stalls where a turbulent river of humanity divided carnival style games from street-fair merchandise, it was too easy to become overwhelmed. Desperate to escape from the deafening sea of laughter and incoherent chatter, I set off across the field to where my family had settled for our picnic. The sun was being generous with its touch, but stiff, steady breezes relieved the heat of the late spring day. The bright green grass and brilliant red blooms danced, full of the promise of summer. As I walked through the tall grass, the ribbon of the balloon tied to my wrist suddenly came unraveled. The wind seized the flighty thing and I turned and ran back the way I had come in pursuit.
+The sun was being generous with its touch, but stiff, steady breezes relieved the heat of the late spring day. The bright green grass and brilliant red blooms danced, full of the promise of summer. As I walked through the tall grass, the ribbon of the balloon tied to my wrist suddenly came unraveled. The wind seized the flighty thing and I turned and ran back the way I had come in pursuit.
 
 It was a short chase, more of a running leap to grasp the end of the string before it slipped out of my reach. I missed and came crashing to the ground. In defeat, I sprawled face down in the grass and sighed over my loss. I’d had plans for that helium; I never tired of the effect it had on my voice! My disappointment was forgotten an instant later as clear, crystal notes of laughter washed over me. I began to push myself up to glare at the person who dared to laugh at my folly, and confronted a vision in a white summer dress.
 
@@ -54,3 +54,4 @@ She followed my finger and gave my family a good look before she turned to respo
 “That would be great. Thank you, Elizabeth!” I grinned and with a slight nod I backed off a few steps, watching her eyes, before I turned and walked on. I could feel her gaze on me as I walked away. I did not see her again that day; in fact, I did not see her again for months, but we were barely thirteen that first meeting. It is an awkward age for starting new relationships, but the years ahead of us were filled with opportunities that we might not have recognized if not for that first, awkward encounter.
 
 **Source** Kyena. (March 24, 2006). “Summer Comes...” Digital Art. Paintings & Airbrushing. Fantasy. DeviantArt.com. Retrieved online March 27, 2009.
+

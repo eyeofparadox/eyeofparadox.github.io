@@ -1,8 +1,11 @@
 ---
-title: News
+title: "News"
 menu:
   main:
-    weight: 2
+    parent: "Library"
+    identifier: "news"
+    weight: 5
     params:
-      icon: '<i class="fas fa-fw fa-newspaper"></i>'
+      icon: '<i class="fas fa-fw fa-bell"></i>'
 ---
+

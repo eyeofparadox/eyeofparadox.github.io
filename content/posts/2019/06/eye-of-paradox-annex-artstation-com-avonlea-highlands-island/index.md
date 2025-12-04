@@ -1,5 +1,5 @@
 ---
-title: "Avonlea - Highlands - Island Dawn"
+title: "Avonlea---Highlands---Island Dawn"
 date: 2019-06-19
 categories: 
   - "aeirn"
@@ -12,10 +12,10 @@ tags:
   - "editorial"
   - "migrated-posts"
   - "work-in-progress"
-coverImage: "david-roberson-avonlea-island-dawn-2x-anamorphic.jpg"
+images: 
+  - "/images/david-roberson-avonlea-island-dawn-2x-anamorphic.jpg"
 ---
-
-[![david-roberson-avonlea-island-dawn-2x-anamorphic](images/david-roberson-avonlea-island-dawn-2x-anamorphic.jpg)ArtStation Post](https://www.artstation.com/artwork/oOBBVL)
+[ArtStation Post](https://www.artstation.com/artwork/oOBBVL)
 
 A quick preface to this post, Child of Paradox already encompasses a number of story arcs, and each thread has gained it's own heading. Those references help me sort through reams of material quickly in my head, but won't make much sense beyond tantelizing hints at the referenced arc's plot. So, this is one of those glimpses that will leave you wondering, more than spoiled.
 
@@ -30,3 +30,4 @@ Untangling some threads will cause others to get tangled, or cause parallel even
 Giving _Hunger and Thirst_ to Arden does upset the timelines a bit, by necessity, since the events precipitate the inception of Avonlea unless the notion of the ember coming back through time with Avonlea is pursued. In that case, _Hunger and Thirst_ follows the original timing, a year after Avonlea's birth. That would also allow the _Slain Twin_ thread to be reintegrated. The death in that thread is the death-like state she falls into after the conflicting bites are inflicted. The immolation of Arden can be postponed until the morning after the massacre, and her demise could result from Avonlea forcing the demon to face the sun. Holding him in dawn's light until an ember is all that remains. Arden uses the last moments of the struggle to compel the girl to preserve the ember within her body, encased in a kind of pearl embedded in the wall of her uterus.
 
 That ember is the key to Avonlea's survival at the conclusion of _Predator and Prey_. That thread occurs in the past at the point where an attempt is made to return to her own time following the battles in the Shattered Realm. The dragon she escaped going into the past catches her and the enemies pursuing her on her way back to the present. At first, Avonlea credits the peculiarities of the Rift with the secret of her resurrection. In truth, being eaten by the dragon kindled her own phoenix-flame. Her impregnation was a direct consequence of her resurrection. Her flight from any further encounters with the dragon leads her, and her allies (and the dragon that blooded itself on her), back to her own realm roughly eight years before her birth. This is when her path crosses Arden's, and where the events associated with _Unpromised_ take place.
+

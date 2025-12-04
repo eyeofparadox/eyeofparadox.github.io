@@ -14,12 +14,11 @@ categories:
 tags: 
   - "truth"
 ---
-
 The best representation of a thing is the thing itself and yet there are things that we experience great difficulty recognizing in their true form.
 
 The truth is one of those things.
 
-In speaking of the truth, what we have is a word--and as a representation of a thing, a word provides a label for a concept that is meaningless without an accurate understanding of what the concept represents.
+In speaking of the truth, what we have is a word---and as a representation of a thing, a word provides a label for a concept that is meaningless without an accurate understanding of what the concept represents.
 
 Understanding the true meaning of truth is a challenge because it calls upon itself for validation, which is a logical fallacy. Or is it?
 
@@ -33,7 +32,7 @@ All too often, people overlook the limits that science imposes on itself, and as
 
 Knowledge and understanding are two different things.
 
-Knowledge is a body of concepts supported by quantitative and qualitative facts--descriptions, definitions and observations of abstract and concrete phenomena.
+Knowledge is a body of concepts supported by quantitative and qualitative facts---descriptions, definitions and observations of abstract and concrete phenomena.
 
 Understanding is the meaning, or truth, we assign to them. The truth of knowledge is certainly conditional, and we can make quantitative and qualitative assessments of the relative truth of facts and ideas, but facts and ideas are not the truth.
 
@@ -53,13 +52,13 @@ If truth was contained in the understanding, and subject entirely to observation
 
 Understanding is a specious word, one that leads us to underestimate the process we are engaged in every moment of our conscious lives.
 
-Physically, we are subordinate to and dependent upon the universe for our existence, but the experience of our existence occurs mentally in the process of resolving a conscious, coherent awareness of our being from all the information gathered and coordinated up to the moment of realization--which is a continuous process.
+Physically, we are subordinate to and dependent upon the universe for our existence, but the experience of our existence occurs mentally in the process of resolving a conscious, coherent awareness of our being from all the information gathered and coordinated up to the moment of realization---which is a continuous process.
 
 We have this notion that the truth is "out there" when in more accurate terms the truth is right here, right now, and it's so much bigger than we can comprehend that we have to keep processing it constantly.
 
 The truth is the absolute; it is what encompasses us even as our minds struggle to encompass it. It is the meaning that is so profound it manifests itself in everything, including our own conscious struggle to recognize it in its elegant simplicity and infinite complexity.
 
-The truth is so pervasive we find it easier to ignore it than to truly comprehend it. The truth is this, words printed on a screen or in a book, being written, being read--interpreted, reiterated, articulated and understood.
+The truth is so pervasive we find it easier to ignore it than to truly comprehend it. The truth is this, words printed on a screen or in a book, being written, being read---interpreted, reiterated, articulated and understood.
 
 This is the magic, this is the mystery, the miracle of life that fills my mind and fills yours, spilling all around us, a part of everything and yet apart from everything.
 
@@ -71,8 +70,9 @@ All lies, illusions, deceptions and distortions are dependent upon truth, either
 
 Through sufficient fabrication, the creation of truth.
 
-In certain philosophies, the ultimate expression is the Absolute, often personified as God or objectified as the Universe. The Absolute can be perceived as Abstract or Manifest, potential or actual, dynamic or static--or, in all these dualistic cases, both.
+In certain philosophies, the ultimate expression is the Absolute, often personified as God or objectified as the Universe. The Absolute can be perceived as Abstract or Manifest, potential or actual, dynamic or static---or, in all these dualistic cases, both.
 
 The truth is existence, and the truth is oblivion, because everything that is, is in the shadow of nothing.
 
 Truth is the absolute condition.
+

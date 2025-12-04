@@ -8,7 +8,6 @@ categories:
   - "society"
   - "sociology"
 ---
-
 What is a society, what is it made up of and how does it work? The simple answer is, jobs. Society is all about jobs. Living in the wild, surviving on their own, human beings had no jobs. Their lives were defined by the tasks that needed to be done in order to be able to survive.
 
 A bunch of people living together and sharing their resources does a better job of surviving, and each person becomes primarily responsible for the task he or she is best suited to do.
@@ -90,3 +89,4 @@ In the game of life, we have sort of made up all the rules as we've gone along, 
 I mean, seriously, killing ourselves is not an option, but it seems to be what we are doing, either way. The truth is that life is not a game, and we're not all playing by the same rules.
 
 We are supposed to accept that life is not fair, that suffering is the price of admission, but the real reason life is not fair is because life is what we make it.
+

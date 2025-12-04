@@ -17,7 +17,6 @@ tags:
   - "mind"
   - "soul"
 ---
-
 My eyes opened and this is what I saw. You can in yourself be anything you desire. You create yourself from a point. You define your own existence.
 
 A soul defines itself.
@@ -70,7 +69,7 @@ The function of mind, to make dreams into reality, is demonstrated in our own re
 
 The ambition or promise of mind, to realize the ideal, is demonstrated in our insistence on finding meaning in what we experience.
 
-In the world, the mind--not the body--is the seat of the soul.
+In the world, the mind---not the body---is the seat of the soul.
 
 The mind is so central to existence that people are often blind to it, though nothing within it is ever hidden from the soul. If the soul could be said to be the light of our awareness, then the mind is the lens through which that light is focused.
 
@@ -96,7 +95,7 @@ Our connection to the physical universe we perceive as _containing_ us lies sole
 
 The world we exist in is contained in that information, as much as that information is contained in the structure of the world, so the world we experience is really just an idea of the world.
 
-What that information really is or what it represents we are unable to know, because it can only be observed indirectly—if at all.
+What that information really is or what it represents we are unable to know, because it can only be observed indirectly---if at all.
 
 Our senses provide a very limited perspective.
 
@@ -121,3 +120,4 @@ It has taken me a long time to find the words to capture what I glimpsed, and th
 If I thought I would live a long and productive life, I still do not think I could do more than scratch the surface of all that I have seen.
 
 In the life I have, I have barely made a scratch.
+

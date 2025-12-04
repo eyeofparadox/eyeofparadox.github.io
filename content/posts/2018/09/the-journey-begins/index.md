@@ -10,9 +10,9 @@ tags:
   - "featured"
   - "migrated-posts"
   - "work-in-progress"
-coverImage: "avonlea-rift-child-1920x640px.png"
+images: 
+  - "/images/avonlea-rift-child-1920x640px.png"
 ---
-
 This is not my first blog. It is, however, the first time in a couple of years where I've been in a place where having a blog made sense. I let my art take over while my writing fell to the side, but plans are in the works to bring my art and writing together. The project I have in mind has gone by the title of Child of Paradox since the first ideas formed in High School, so many years ago.
 
 Those ideas never left me, and they've been a source of inspiration through some long, hard times. Some are piled up in a chaos of notes, others are illustrations ranging from a few rough sketches, through generations of design and revision, to a form that can finally cohere into a visual story.
@@ -27,6 +27,7 @@ If you love fantasy and science fiction, dipped in philosophy and tuned by parad
 
 Thanks for joining me!
 
-> Good company in a journey makes the way seem shorter. — Izaak Walton
+> Good company in a journey makes the way seem shorter.  - Izaak Walton
 
-**The Journey Begins**![david-roberson-150531-avonlea-amidst-aspens-www[1]](images/david-roberson-150531-avonlea-amidst-aspens-www1.jpg)
+**The Journey Begins**
+

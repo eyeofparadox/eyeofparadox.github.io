@@ -6,8 +6,7 @@ categories:
   - "evil"
   - "helium"
 ---
-
-There is a line in "The Matrix" when Morpheus confronts Neo about a wrongness in the world, "like a splinter in your mind."  It was caused by an instinctive apprehension of the artificial reality he was trapped in.
+There is a line in "The Matrix" when Morpheus confronts Neo about a wrongness in the world, "like a splinter in your mind."  It was caused by an instinctive apprehension of the artificial reality he was trapped in.
 
 It is similar to a feeling many people have about our own reality. There is a wrongness in the world, evident in the mystery of life, the inevitability of death and in the things that we call evil.
 
@@ -25,7 +24,7 @@ Pain exists to warn us of danger and damage to our bodies, spirits, minds and ev
 
 Fear warns us about things in our world that we must not take for granted and ignore.
 
-Anger drives us to fight against that which would harm us, it gives us the strength to attack--when normally, we might never resort to violence.
+Anger drives us to fight against that which would harm us, it gives us the strength to attack---when normally, we might never resort to violence.
 
 Hatred, though it is such a dark emotion, and one that often takes control of us and blinds us, is designed to drive us to destroy that which is threatening to us.
 
@@ -43,7 +42,7 @@ There have always people who believe that there is no higher truth and that weal
 
 If we were to apply the usual logic for defining evil, these people are inclined to view hope and belief as evil and disruptive influences. The extremes to which some people go in the name of faith certainly support such a view.
 
-However, this only proves that evil is a concept of our own making--and a relative one at that.
+However, this only proves that evil is a concept of our own making---and a relative one at that.
 
 Life is hard.
 
@@ -101,4 +100,5 @@ Ultimately, evil serves a purpose, which gives it a redeeming quality.
 
 Thus, the existence of evil is not inherently evil.
 
-Originally posted on Helium.
+_Originally posted on Helium._
+

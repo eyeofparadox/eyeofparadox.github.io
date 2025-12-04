@@ -8,7 +8,6 @@ categories:
   - "truth"
   - "writing"
 ---
-
 Writing is the embodiment of aspiration.
 
 It begins with the will to overcome the unanswerable statement of a blank page.
@@ -36,3 +35,4 @@ It should not seem strange then, that writing itself exacts the pains of labor u
 Nor is it so surprising that we take it, like ourselves, so much for granted.
 
 The mystery of it is naked to us, and we unconsciously avert our eyes, even as we peer avidly into its glory, feasting on the beauty and sensuality, the brutality and severity, taking part in the dance with our eyes closed.
+

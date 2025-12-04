@@ -6,8 +6,7 @@ categories:
   - "helium"
   - "reader-response"
 ---
-
-Posted on Helium under: **The fundamentals of self-awareness**
+_Posted on Helium under: **The fundamentals of self-awareness**_
 
 The mind is an inherently fascinating and difficult subject to pin down. Philosophers have been musing over the mysteries of the mind for thousands of years but it is, without doubt, the scientists who find it the most frustrating to study.
 
@@ -77,7 +76,7 @@ What this means on the most practical level is that scientists are trying to fin
 
 What we know and understand as conscious awareness in the mind is certain to be significantly removed from the most primitive corollary to awareness.
 
-We can also surmise that the physical source of consciousness, the quality of raw awareness--or as consciousness researchers would say, qualia--must be a subjective property of something we are already familiar with at the atomic, sub-atomic or quantum level.
+We can also surmise that the physical source of consciousness, the quality of raw awareness---or as consciousness researchers would say, qualia---must be a subjective property of something we are already familiar with at the atomic, sub-atomic or quantum level.
 
 Otherwise, we return to speculating about a new form of matter or energy.
 
@@ -123,9 +122,9 @@ It is possible that this is, in fact, the actual answer.
 
 What people experience as awareness might turn out to be a subjective quality of electric, magnetic, gravitic or nuclear forces interacting with each other.
 
-Whether this is true or not, any conventional attempt to explain consciousness and the quality of awareness has to be derived from something that is already present in matter or--more likely--energy.
+Whether this is true or not, any conventional attempt to explain consciousness and the quality of awareness has to be derived from something that is already present in matter or---more likely---energy.
 
-In order to find out what might happen to consciousness when we die--what we might experience, or what might happen to our experience--we can consider what we know about the properties of matter and energy.
+In order to find out what might happen to consciousness when we die---what we might experience, or what might happen to our experience---we can consider what we know about the properties of matter and energy.
 
 No one knows what energy is, specifically, and matter is essentially energy invested in structure. The properties of matter and energy are determined by the way they are structured and how they can interact.
 
@@ -155,6 +154,8 @@ To that living miracle of consciousness, death is not just the end of life as we
 
 It is in that moment that the mind discovers that it can no longer afford to take its existence for granted.
 
+---
+
 References
 
 Blackburn, S. (Sept 11, 2004). The world in your head: are you a qualia freak? A zombie? Can our inner world of sensation, colour and subjective experience ever be completely explained? Simon Blackburn weighs up three attempts to reconcile the mystery that is consciousness with a scientific world view.(Opinion: essay). New Scientist 183.2464 p42(4). Retrieved December 16, 2006, from InfoTrac OneFile.
@@ -170,3 +171,4 @@ Novin, W. (Spring 2004). Can quantum physics explain consciousness? A report on 
 Tolson, J. (Oct 23, 2006). Is There Room for the Soul? (research into biology of consciousness). U.S. News & World Report 141.15 p56-63. Retrieved Retrieved January 14, 2006, from Thomson Gale PowerSearch.
 
 Velmans, M. (March 25, 2006). In here, out there, somewhere? There’s a revolution looming in consciousness studies, finds Max Velmans, as he ponders recent attempts to locate mind and consciousness. New Scientist 189.2544, p50(2). Retrieved Retrieved December 09, 2006, from Thomson Gale PowerSearch.
+

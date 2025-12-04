@@ -17,7 +17,6 @@ tags:
   - "realization"
   - "universe"
 ---
-
 On any given day, a small handful of people find their way to the eye of paradox. Some of them probably just glance at an article to see if it's relevant to the search that brought them here. One or two might actually read something.
 
 Once in a blue moon, someone leaves a short comment.
@@ -107,3 +106,4 @@ I struggle to find the time to think things through enough to achieve a less diz
 The irony is, we're all at this threshold.
 
 It's kind of like the best kept secret, because it's hidden in plain sight. I think the only reason I noticed it is because I am too.
+

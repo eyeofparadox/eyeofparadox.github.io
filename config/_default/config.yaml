@@ -10,15 +10,16 @@ ignoreErrors: ["error-remote-getjson"]
 ignoreLogs: ["warning-goldmark-raw-html"]
 
 pagination:
-  pagerSize: 10
+  pagerSize: 20
 
 pygmentsUseClasses: true
 
 taxonomies:
+  # archive: archives
   author: authors
+  series: series
   category: categories
   tag: tags
-  series: series
 
 build:
   writeStats: true

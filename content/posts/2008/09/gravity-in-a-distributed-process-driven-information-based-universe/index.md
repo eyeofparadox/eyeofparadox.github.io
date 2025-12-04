@@ -18,12 +18,11 @@ tags:
   - "information"
   - "time"
 ---
-
 To a curious mind, gravity is a curious phenomenon. The more one pays attention to it, the more fascinating and mysterious it becomes. Today, we have the advantage of having had great minds ponder the mystery and define what can be observed and inferred by studying it.
 
 Newton pondered the question "why do objects fall?" and provided us with a theory of universal gravity (along with his three laws of motion). He essentially defined the terms we now use to describe and quantify gravity, the force that attracts objects with mass to each other.
 
-A description--particularly an accurate mathematical description--of gravity is the beginning of an answer to the question, "How does gravity actually work?"
+A description---particularly an accurate mathematical description---of gravity is the beginning of an answer to the question, "How does gravity actually work?"
 
 Newton's theory of gravity gave us a grasp of the mechanics of motion, but until Einstein redefined our understanding of the relationship between space and time, and the relationship between mass and energy, changing our concept of gravity, we did not realize that there was a great deal more to the question.
 
@@ -47,7 +46,7 @@ The answer might not come from asking about gravity at all. An interesting insig
 
 At the time, the blog was fresh in my mind and I posted it, without preparing potential readers for the leap my article asked them to make. Having been written in a moment of inspiration, it took a few days for the implications of what I had written to hit me.
 
-I had intended to comment on some of the philosophical implications of simulating time, based on the stated observations and examples, but in the process stumbled onto a simulation of the effect of gravity. To share that epiphany, I have to direct you to **[Time in a Distributed, Process Driven, Information-based Universe](https://eyeofparadox.com/2007/07/30/time-in-a-distributed-process-driven-information-based-universe/)**.
+I had intended to comment on some of the philosophical implications of simulating time, based on the stated observations and examples, but in the process stumbled onto a simulation of the effect of gravity. To share that epiphany, I have to direct you to **[Time in a Distributed, Process Driven, Information-based Universe](/posts/2007/07/30/time-in-a-distributed-process-driven-information-based-universe/)**.
 
 That post was a product of typing as fast as I could to keep up with my thoughts. I realize that it jumps across points that are clear to me that may not be clear to others; and without outside comment I would not necessarily know what connections need to be spelled out, but to me, while writing _this_ post, I seem to have stumbled upon a very simple explanation for how gravity might work.
 
@@ -57,6 +56,7 @@ I simply present this as the line of thought that whimsy, and the synchronistic 
 
 The quick and dirty translation of my underlying thoughts includes my conceptual understanding of spacetime as medium whose substance is energy, underlying and invested in the structure of space, with its static and graphic aspects, subject to dynamic and sequential distributed displacement, manifesting as time.
 
-In this model of reality, energy becomes mass by acquiring structure, which behaves in accordance to static and dynamic principles--like distributed information processing--because, whether viewed as physical structure or information, the energy invested in all structures is constantly rebalancing.
+In this model of reality, energy becomes mass by acquiring structure, which behaves in accordance to static and dynamic principles---like distributed information processing---because, whether viewed as physical structure or information, the energy invested in all structures is constantly rebalancing.
 
 It is simpler to just say that the gravitic effect implicit in a distributed process is a product of the conservation of energy, and it is possible that this is also true for real gravity.
+

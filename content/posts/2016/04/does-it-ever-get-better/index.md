@@ -20,7 +20,6 @@ tags:
   - "despair"
   - "hope"
 ---
-
 I am well acquainted with the depths of despair; that place where words hurt in every way and never more than when they give the faintest glimmer of the only thing that could possibly be worse than despair:
 
 **Hope**.
@@ -49,11 +48,11 @@ When you stand there, truly believing that life is impossible, you overlook the 
 
 So, impossible or not, there it is.
 
-Maybe it’s not as hard as you think, to do the impossible. If the only way to escape from hope is by escaping from your very existence, maybe you can finally understand that no one **has** hope.
+Maybe it’s not as hard as you think, to do the impossible. If the only way to escape from hope is by escaping from your very existence, maybe you can finally understand that no one **has** hope.
 
-The truth is, we **are** hope.
+The truth is, we **are** hope.
 
-When you start to think about killing yourself, what’s really happening is that you’ve realized that even when your pain has become overwhelming, you can still endure **worse**\--but you don’t want to.
+When you start to think about killing yourself, what’s really happening is that you’ve realized that even when your pain has become overwhelming, you can still endure **worse**\---but you don’t want to.
 
 The pain you’re in has gotten completely in the way of living.
 
@@ -61,9 +60,9 @@ You’ve withdrawn so far into yourself, you’ve cut yourself off from the worl
 
 Killing yourself seems like the only way to end your suffering. You cling to that hope, ignoring the fact that dying will involve unimaginable suffering, because you’re so desperate to stop **hurting**.
 
-But consider, if you’re that **desperate**\--enough to brave death--can you be **brave** enough to admit you need help to cope with the problems you have?
+But consider, if you’re that **desperate**\---enough to brave death---can you be **brave** enough to admit you need help to cope with the problems you have?
 
-Can you be brave enough to be **honest**\--first and foremost, with yourself, but ultimately--with others, to say you’re in too much pain to think?
+Can you be brave enough to be **honest**\---first and foremost, with yourself, but ultimately---with others, to say you’re in too much pain to think?
 
 The help you can get will have limits, but you have to be able to ask. Mostly, people will only be able to help you discover what **you** can do, but you will discover that you can do more than you thought you could, once you start doing things in spite of the pain.
 
@@ -81,6 +80,7 @@ Don’t be disappointed or mad at yourself. It’s hard to figure things out whe
 
 Above all, don’t **cheat** yourself by looking for the easy way out.
 
-If it **looks easy**, it will **cost you more**\--in pain and suffering--in the end.
+If it **looks easy**, it will **cost you more**\---in pain and suffering---in the end.
 
 Accept that there is a **price** to pay; it’s part of the **value** of being **you**.
+

@@ -1,9 +1,13 @@
 ---
-title: Archives
+title: "Archives"
 menu:
   main:
-    parent: blog
+    identifier: "archives"
     weight: 1
     params:
-      icon: <i class="fas fa-fw fa-file-archive text-primary"></i>
+      icon: <i class="fas fa-fw fa-file-archive"></i>
 ---
+```
+    parent: "Library"
+```
+

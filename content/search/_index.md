@@ -1,3 +1,4 @@
-+++
-title = "Search"
-+++
+---
+title: "Search"
+---
+

@@ -8,7 +8,6 @@ categories:
   - "reflection"
   - "society"
 ---
-
 As true as it is that some people are incapable of valuing things they have not paid the price for, the fact is that free money is never free. There is terrible cost for being on the public dole, that is immediately evident when you walk into a welfare community.
 
 Being on public assistance or living on a reservation, the cost of that free income or housing is having to live in poverty. It provides just enough to survive but not enough to advance. While many assistance programs include job training and placement programs, the jobs one can qualify for rarely provide better incomes.
@@ -55,7 +54,7 @@ To understand how important the working poor are, try to imagine what would happ
 
 Granted, there are some very specialized fields that have great value, and the individuals who perform those functions are handsomely rewarded, but it does not always follow that a highly valued worker does the most important work.
 
-Any job can become “worthless” if enough people are skilled at doing it — that’s simple “supply and demand” and it applies to general labor or brain surgery.
+Any job can become “worthless” if enough people are skilled at doing it  - that’s simple “supply and demand” and it applies to general labor or brain surgery.
 
 Teachers, who perform an essential social function, are valued proportionately to the perceived value or significance of the students they instruct.
 
@@ -69,7 +68,7 @@ Any other answer ought to show you what’s wrong with the system. Beyond the mo
 
 With so much emphasis on making money, particularly in business, it becomes too easy to lose sight of why we are working in the first place. Most people accept the argument that money is superior to barter, but both systems of exchange are dependent upon assigning a fair value to the production of goods and services.
 
-The value of the dollar fluctuates, and over the past hundred years has plummeted through inflation, but the cost of an hour’s work is still an hour spent working. The true value is in what is accomplished, and how hard it is to accomplish — and only the person doing the work knows that!
+The value of the dollar fluctuates, and over the past hundred years has plummeted through inflation, but the cost of an hour’s work is still an hour spent working. The true value is in what is accomplished, and how hard it is to accomplish  - and only the person doing the work knows that!
 
 The day people stopped setting the value of their own work was the day that people lost their independence and freedom. When there is always someone else deciding the value of your work and your worth in the community, what assurance is there that the decision will be fair?
 
@@ -77,7 +76,7 @@ Living is the only privilege we truly have, and we have the responsibility of ma
 
 If you want more in life, you have to be more, you have to do more; you can’t just keep doing the same thing you have been doing all along.
 
-You are going to have to do something you don’t want to do — because if you wanted to do it, you would have already tried.
+You are going to have to do something you don’t want to do  - because if you wanted to do it, you would have already tried.
 
 But, you can never know if you’ll like doing something until you try, and in some cases until you succeed.
 
@@ -86,3 +85,4 @@ This is all common sense stuff, but it’s amazing how easy it is for people to 
 Life really does not have a purpose if you don’t live your life on purpose. People really do a lot better in the world when they act like they have a good reason for being here. Blissful ignorance of the world is a handicap, however pleasant it might seem.
 
 An open mind should always be guarded by open eyes.
+

@@ -1,5 +1,5 @@
 ---
-title: "Avonlea &amp; Kzahn - Tern Vesper Lake"
+title: "Avonlea & Kzahn---Tern Vesper Lake"
 date: 2019-06-24
 categories: 
   - "aeirn"
@@ -10,11 +10,12 @@ tags:
   - "eclipsed-notes"
   - "migrated-posts"
   - "work-in-progress"
+images:
+  - "/images/david-roberson-avonlea-kzahn-tern-vesper-lake-001-2-35-1.jpg"
 ---
+[Artstation Post](https://www.artstation.com/artwork/Yax9YK)
 
-![david-roberson-avonlea-kzahn-tern-vesper-lake-001-2-35-1](images/david-roberson-avonlea-kzahn-tern-vesper-lake-001-2-35-1.jpg)[Artstation Post](https://www.artstation.com/artwork/Yax9YK)
-
-I'll let you follow the link for the original posting details. I've been focused on testing out a workflow for creating the world of Aeirn in 3D for Child of Paradox. Like much of this sort of thing, it's also concept art for the series--and there is a lot of it on my portfolio and gallery sites. I am still working on the writing side of things too. I use the time my computer is tied up rendering to jot down new notes, sort through old notes, and work out details like the naming of characters. That last is a bit harder than it sounds, because I attempted to write parts of the story at different times and each time I renamed people to fit the roles they had in each version I explored.
+I'll let you follow the link for the original posting details. I've been focused on testing out a workflow for creating the world of Aeirn in 3D for Child of Paradox. Like much of this sort of thing, it's also concept art for the series---and there is a lot of it on my portfolio and gallery sites. I am still working on the writing side of things too. I use the time my computer is tied up rendering to jot down new notes, sort through old notes, and work out details like the naming of characters. That last is a bit harder than it sounds, because I attempted to write parts of the story at different times and each time I renamed people to fit the roles they had in each version I explored.
 
 It's kind of amazing how my perspective shifts, while trying to wrestle with the paradoxes and threads of the story. Up to the point where something is actually published, it's all a bit like a free-form dream. Everything can change, radically altering the whole scope of the story-universe. It's part of why I started posting drafts and notes, to sort of commit to an approach while in a working phase. When the phase ends and I spend a little time away from the writing, I end up letting go of that commitment, though the notes and drafts do tend to have some inertia. It's hard to re-assimilate them for a fresh approach, and that can put the brakes on an attempt to get the ball rolling again.
 
@@ -77,3 +78,4 @@ As a girls' name, Maureen is pronounced maw-REEN. It is of Irish and Gaelic orig
 Maureen is similar in meaning to Asta "star-like; love", Astra "star", Citlali "star", Csilla "star", Danica "morning star; from Denmark", Eppie "good to speak; my delight is in her; myrtle, bride, star", Esta "myrtle, bride; star", Estee "star", Estelle "star", Esther "myrtle, bride; star", Hadassah "myrtle, bride; star", Halimeda "the sea", Hesper "evening; evening star", Hester "myrtle, bride; star", Itzel "star of the aurora sky", Kai "the sea", Kailani "sea and sky", Makara "sea dragon", Mamie "star of the sea; pearl", Manon "woman from Magdala; star of the sea", Mari "star of the sea", Maria "star of the sea", Mariah "star of the sea", Marianne "star of the sea; grace", Maribel "star of the sea; beautiful", Marietta "star of the sea", Marika "star of the sea", Marilla "shining sea", Marilyn "star of the sea", Marina "from the sea", Maris "of the sea", Marisa "star of the sea", Marisela "star of the sea", Marissa "of the sea", Maristela "star of the sea; star", Marla "star of the sea", Marlen "star of the sea", Marlene "star of the sea; from Magdala", Marlin "star of the sea; pretty", Marlisa "star of the sea; God is my oath", Marni "from the sea", Mayra "star of the sea", Meriel "sea nymph; shining sea", Meryl "shining sea", Miriam "star of the sea", Mitzi "star of the sea", Moana "ocean, deep sea", Molly "star of the sea", Morgan "circling sea or great brightness; bright or white sea dweller", Nereida "sea nymph", Nerida "sea nymph", Nerine "sea nymph", Ninfa "sea nymph", Pelagia "of the sea", Polly "star of the sea", Romy "dew of the sea", Rosemary "dew of the sea", Sagara "the sea", Sidra "of the stars", Stella "star", Tara "hill; star", Thalassa "sea, ocean", Thurayya "star", Ula "wealthy; gem of the sea; sacred red" and Vespera "evening star".▲
 
 Read more at [http://www.thinkbabynames.com](http://www.thinkbabynames.com)
+

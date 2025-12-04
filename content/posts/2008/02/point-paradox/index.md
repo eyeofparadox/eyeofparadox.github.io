@@ -8,7 +8,6 @@ categories:
   - "voices-in-my-head"
   - "writing"
 ---
-
 “Detailing the dynamics of point paradox has never been easy, but the founding principle is prime awareness, the awareness of one, all and none" she elaborated, settling lightly on the arm of the couch.
 
 "Point paradox is initially a question of absolutes. An absolute can be represented with a value of ‘one’, ‘zero’ and ‘infinite’. These values are all essentially equal, depending on perspective.
@@ -23,8 +22,9 @@ She gave a slight, helpless shrug, as if in apology for her inability to illustr
 
 Rising to her feet, she walked toward the mirror hanging over the mantle, eyes fixed on her reflection.
 
-"In one sense, the soul is confronting her own reflection, but her awareness places her on both sides of the glass—so to speak—forcing her to literally confront herself.
+"In one sense, the soul is confronting her own reflection, but her awareness places her on both sides of the glass---so to speak---forcing her to literally confront herself.
 
 "Upon entering each other, they re-enter the common sphere of their soul. This is the point where the dreamer enters the dream. This is what sparks the first form of consciousness.”
 
 Excerpt from "The Dreamer in the Dream"
+

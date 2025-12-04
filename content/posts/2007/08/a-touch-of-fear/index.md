@@ -6,5 +6,7 @@ categories:
   - "voices-in-my-head"
   - "writing"
 ---
+A good scare is like good sex. It is gripping and all consuming for an eternal moment, but once it has washed through you and you catch your breath, it evaporates. 
 
-A good scare is like good sex. It is gripping and all consuming for an eternal moment, but once it has washed through you and you catch your breath, it evaporates. Like smoke, it unravels, curling in upon itself and expanding into nothing. Before you know it, only the memory remains.
+Like smoke, it unravels, curling in upon itself and expanding into nothing. Before you know it, only the memory remains.
+

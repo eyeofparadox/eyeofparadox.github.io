@@ -15,7 +15,6 @@ categories:
   - "sociology"
   - "suicide"
 ---
-
 We're all human. None of us have a say in what circumstances we are born. Pretty much any other characteristic by which people can be defined produces some form of social stratification.
 
 Thinking about it boggles the mind.
@@ -49,3 +48,4 @@ The real danger is not that people will fight the system.
 The real danger is that they will simply abandon it. They will try to escape their miserable lives through drugs and debauchery, they will turn to crime and simply take what they require.
 
 Or they will quietly, desperately, take their own lives.
+
