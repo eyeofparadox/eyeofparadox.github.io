@@ -90,7 +90,8 @@ tagCount: 100
 # The number of tags shown in sidebar. Turn off by setting it to false.
 seriesCount: 20
 # The number of series shown in sidebar. Turn off by setting it to false.
-archivesCount: 20
+# archivesCount: false
+# archivesCount: 20
 # The number of archives shown in sidebar. Turn off by setting it to false. 
 taxonomyPaginate: 15
 # Default to 10.
@@ -128,6 +129,7 @@ socialColor: false # Remove color from social links if false.
 
 sidebar:
   # fixed: true
+  # archives: false
   # archives: true
   # Enable archives widget
   # taxonomiesToggle: false
@@ -183,9 +185,11 @@ post:
 archive:
   paginate: 100
   # Archive pagination. Default to 100.
-  # basePath = "/archives"
+  basePath: "/posts"
+  # basePath: "/archives"
   # The base path of archive pages.
-  dateFormat: 01-02
+  dateFormat: 2006-01-02
+  # dateFormat: 01-02
   # Archive date format. Default to Jan 2.
 
 # analytics:

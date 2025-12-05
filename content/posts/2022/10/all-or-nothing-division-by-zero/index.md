@@ -11,6 +11,8 @@ tags:
   - "realization"
   - "reflection"
   - "truth"
+images: 
+  - "/images/19990330-aes-abstract-evolution-19990330-1729-01-2048.webp"
 ---
 If you divide by nothing, in one sense, you get nothing. In another sense, you are left with everything. However much there is to divide, all of it remains---undivided. The remainder is everything. To count it all, however, you must divide it up into discrete quantities. 
 

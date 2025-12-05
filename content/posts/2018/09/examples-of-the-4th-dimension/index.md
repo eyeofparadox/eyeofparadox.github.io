@@ -12,7 +12,7 @@ categories:
   - "time"
   - "universe"
 images: 
-  - "/images/hyperspace_2k_300dpi-e1748500692804.png"
+  - "/images/eyeofparadox_hyperspace_1k_300dpi_1x1.png"
 ---
 This is a thought that just popped into my head after reviewing my last post. Right off the top of my head, I picked out two candidates for the fourth dimension of space; Scale and State.
 
@@ -102,3 +102,4 @@ In our three dimensional world, they seem to stand apart. Perhaps in the fourth 
 
 For us, it's all in our heads.
 
+![](/images/hyperspace_2k_300dpi-e1748500692804.png)

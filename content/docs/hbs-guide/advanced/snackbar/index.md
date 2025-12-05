@@ -12,7 +12,7 @@ pinned = false
 carousel = false
 categories = []
 tags = ["Snackbar", "HTML", "JavaScript"]
-series = ["Documentation"]
+series = ["Docs"]
 images = []
 authors = ["RazonYang"]
 +++

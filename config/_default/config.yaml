@@ -17,7 +17,7 @@ pygmentsUseClasses: true
 taxonomies:
   # archive: archives
   author: authors
-  series: seriesSure. I'll be waiting for github desktop to sync
+  series: series
   category: categories
   tag: tags
 

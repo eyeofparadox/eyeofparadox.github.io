@@ -2,6 +2,10 @@
 title: "Eclipsed"
 date: 2016-08-11
 weight: 300
+series: []
+categories:
+  - "Fiction"
+  - "Short-Fiction"
 images:
   - "/images/x-displacement-landscape-sky.png"
 ---

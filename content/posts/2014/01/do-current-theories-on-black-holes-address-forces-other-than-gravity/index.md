@@ -1,5 +1,5 @@
 ---
-title: "Do current theories on Black Holes address Forces other than Gravity?"
+title: "Do Current Theories On Black Holes Address Forces Other Than Gravity?"
 date: 2014-01-21
 categories: 
   - "personal-musings"
@@ -16,8 +16,6 @@ tags:
   - "nuclear-forces"
   - "physics-2"
   - "singularity-2"
-images: 
-  - "/images/hyperspace_2k_300dpi-e1748500692804.png"
 ---
 From time to time, I stumble across a question I have to stop and ask, but I am usually in the middle of something that needs to be done. So, I put it off for later, often forgetting to even write the question down. I know this one is going to come back to plague me, so I am putting it out there in the hopes I can come back and do some research on it later, while giving the random visitor to my site a chance to comment on it or point me toward a source with something to say about the subject.
 

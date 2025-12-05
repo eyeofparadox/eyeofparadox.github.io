@@ -2,6 +2,10 @@
 title: "Fallen Angel"
 date: 2009-06-22
 weight: 400
+series: []
+categories:
+  - "Fiction"
+  - "Short-Fiction"
 images: []
 ---
 Rachel found her brother sitting at the crest of the ridge bordering the easternmost edge of their family's sprawling ranch. His disappearance shortly after the world wide war warning had struck her as unsurprising, and typically reckless. Granted, the shooting was still a way off in interplanetary space, but it was just like him to want to be as close to the action as he could get. Pausing to take in the view, she did have to admit that his perch commanded an excellent view of the early evening sky.
