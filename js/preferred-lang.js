@@ -1,0 +1,1 @@
+(()=>{var o={fallback:"https://eyeofparadox.github.io/",homes:{en:"https://eyeofparadox.github.io/"}};(()=>{let a=navigator.language||navigator.userLanguage;if(a in o.homes){window.location.href=o.homes[a];return}let n=a.split("-");for(let e in o.homes)if(e.indexOf(n[0])===0){window.location.href=o.homes[e];return}window.location.href=o.fallback})();})();

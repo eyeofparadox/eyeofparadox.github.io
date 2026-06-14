@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://eyeofparadox.github.io/sitemap.xml
